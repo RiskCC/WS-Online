@@ -5722,7 +5722,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. [AUTO]?(1) Put a card named "Sword of Rupture, Ea" from your hand into your waiting room? At the beginning of your opponent's attack phase, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's climax in the climax area, put it into your opponent's waiting room, and this card gets +5500 power until end of turn.</text>
+            <text>[AUTO] When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. [AUTO][(1) Put a card named "Sword of Rupture, Ea" from your hand into your waiting room? At the beginning of your opponent's attack phase, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's climax in the climax area, put it into your opponent's waiting room, and this card gets +5500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -5733,7 +5733,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] This card gets +500 power for each of your opponent's ?REST? characters. [AUTO]?(1)? During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes ?REVERSE?, you may pay the cost. If you do, put that character into your opponent's clock. [AUTO]?(2)? At the beginning of your encore step, you may pay the cost. If you do, choose another of your characters and this card, and put them into your memory. At the beginning of your next draw phase, put those characters from your memory on to separate positions of your stage. </text>
+            <text>[CONT] This card gets +500 power for each of your opponent's ?REST? characters. [AUTO][(1)? During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes ?REVERSE?, you may pay the cost. If you do, put that character into your opponent's clock. [AUTO][(2)? At the beginning of your encore step, you may pay the cost. If you do, choose another of your characters and this card, and put them into your memory. At the beginning of your next draw phase, put those characters from your memory on to separate positions of your stage. </text>
             </card>
 			
 			<card>
@@ -5789,7 +5789,7 @@
             <type>Character - Void Master</type>
 			<pt>3000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] During your opponent's turn, all of your other ?Master? characters get +1000 power. [AUTO] Change ?(4) Put a climax from your hand into your waiting room and put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Kirei Kotomine" in your waiting room, and put it on the stage position that this card was on.</text>
+            <text>[CONT] During your opponent's turn, all of your other ?Master? characters get +1000 power. [AUTO] Change [(4) Put a climax from your hand into your waiting room and put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Kirei Kotomine" in your waiting room, and put it on the stage position that this card was on.</text>
             </card>
 			
 			<card>
@@ -5800,7 +5800,7 @@
             <type>Character - Homunculus Alchemy</type>
 			<pt>3000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO]?(1)] When this card attacks, if a card named "Sign of Determination" is in your climax area, you may pay the cost. If you do, search your deck for up to one level 1 or higher ?Master? or ?Servant? character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
+            <text>[AUTO][(1)] When this card attacks, if a card named "Sign of Determination" is in your climax area, you may pay the cost. If you do, search your deck for up to one level 1 or higher ?Master? or ?Servant? character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -5833,7 +5833,7 @@
             <type>Character - Master Weapon</type>
 			<pt>1000/1</pt>
             <tablerow>1</tablerow>
-            <text>[AUTO]?(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named ""Riding" Skill, Saber", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. [AUTO] When this card becomes ?REVERSE?, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of his or her stock into the waiting room.</text>
+            <text>[AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named ""Riding" Skill, Saber", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. [AUTO] When this card becomes ?REVERSE?, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of his or her stock into the waiting room.</text>
             </card>
 			
 			<card>
@@ -5888,7 +5888,7 @@
             <type>Character - Void Master</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room. ?ACT??(2) ?REST? two of your characters? Search your deck for up to one ?Master? or ?Servant? character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
+            <text>[AUTO] When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room. [ACT][(2) ?REST? two of your characters? Search your deck for up to one ?Master? or ?Servant? character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -5899,7 +5899,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>4000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] All of your other ?Servant? characters get +1000 power. [AUTO]?(3) Put a card from your hand into your waiting room] When a card named "Ionian Hetairoi" is placed on your climax area, you may pay the cost. If you do, search your deck for up to three cost 0 or less ?Servant? characters, and put them on separate positions of your stage. Shuffle your deck afterwards.</text>
+            <text>[CONT] All of your other ?Servant? characters get +1000 power. [AUTO][(3) Put a card from your hand into your waiting room] When a card named "Ionian Hetairoi" is placed on your climax area, you may pay the cost. If you do, search your deck for up to three cost 0 or less ?Servant? characters, and put them on separate positions of your stage. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -5910,7 +5910,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>1000/1</pt>
             <tablerow>1</tablerow>
-            <text>[AUTO][Put the top card of your deck into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named "Arondight" in your waiting room, and return it to your hand. [AUTO] Change ?(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Curse Incarnate, Berserker" in your waiting room, and put it on the stage position that this card was on.</text>
+            <text>[AUTO][Put the top card of your deck into your clock] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a card named "Arondight" in your waiting room, and return it to your hand. [AUTO] Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Curse Incarnate, Berserker" in your waiting room, and put it on the stage position that this card was on.</text>
             </card>
 			
 			<card>
@@ -5998,7 +5998,7 @@
             <type>Character - Master Alchemy</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[AUTO]?(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named "??", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. [AUTO] Bond?"Imposing and Majestic, Rider" [Put the top card of your deck into your clock] ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Imposing and Majestic, Rider" in your waiting room, and return it to your hand.)</text>
+            <text>[AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named "??", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. [AUTO] Bond?"Imposing and Majestic, Rider" [Put the top card of your deck into your clock] ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Imposing and Majestic, Rider" in your waiting room, and return it to your hand.)</text>
             </card>
 			
 			<card>
@@ -6064,7 +6064,7 @@
             <type>Character - Master Alchemy</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] Assist All of your characters in front of this card get +500 power. ?ACT?[?REST? two of your characters] Choose one of your characters with "Lancer" in its card name, and until end of turn that character gets +1500 power and the following ability."[CONT] If the character facing this card is a higher level than this card, this card cannot attack."</text>
+            <text>[CONT] Assist All of your characters in front of this card get +500 power. [ACT][?REST? two of your characters] Choose one of your characters with "Lancer" in its card name, and until end of turn that character gets +1500 power and the following ability."[CONT] If the character facing this card is a higher level than this card, this card cannot attack."</text>
             </card>
 			
 			<card>
@@ -6097,7 +6097,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>8000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO]?(1) Put a card from your hand into your waiting room] When this card attacks, if a card named "Excalibur" is in your climax area, you may pay the cost. If you do, choose a card in your opponent's waiting room, put it into your opponent's memory, and this card gets +1000 power until end of turn.</text>
+            <text>[AUTO][(1) Put a card from your hand into your waiting room] When this card attacks, if a card named "Excalibur" is in your climax area, you may pay the cost. If you do, choose a card in your opponent's waiting room, put it into your opponent's memory, and this card gets +1000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6141,7 +6141,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>2500</pt>
             <tablerow>3</tablerow>
-            <text>[AUTO]?(1)? When you use this card's "Backup", you may pay the cost. If you do, choose one of your ?Master? or ?Servant? characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level. ?ACT??Counter? Backup 1000, Level 1 ?Put this card from your hand into your waiting room? ?Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.?</text>
+            <text>[AUTO][(1)? When you use this card's "Backup", you may pay the cost. If you do, choose one of your ?Master? or ?Servant? characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level. [ACT]?Counter? Backup 1000, Level 1 ?Put this card from your hand into your waiting room? ?Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.?</text>
             </card>
 			
 			<card>
@@ -6174,7 +6174,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO]??REST? one of your ?STAND? characters? When a card named "Gordius Wheel" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and that character gets -2000 power until end of turn.</text>
+            <text>[AUTO][[REST] one of your [STAND] characters] When a card named "Gordius Wheel" is placed on your climax area, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's characters on the center stage, and that character gets -2000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6185,7 +6185,7 @@
             <type>Character - Master Jewel</type>
 			<pt>1500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] All of your other ?Royalty? characters get +500 power. ?ACT??(2) ?REST? this card? Choose a ?Servant? character in your waiting room, and return it to your hand.</text>
+            <text>[CONT] All of your other ?Royalty? characters get +500 power. [ACT][(2) ?REST? this card? Choose a ?Servant? character in your waiting room, and return it to your hand.</text>
             </card>
 			
 			<card>
@@ -6196,7 +6196,7 @@
             <type>Character - Master Alchemy</type>
 			<pt>2500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist". [AUTO] When a card named "Bond Between A King and His Retainer" is placed on your climax area, reveal the top card of your deck. If the revealed card is a ?Royalty? or ?Alchemy? character, put it into your stock.?(If it is not, return the revealed card to is its original place.)</text>
+            <text>[CONT] Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist". [AUTO] When a card named "Bond Between A King and His Retainer" is placed on your climax area, reveal the top card of your deck. If the revealed card is a ?Royalty? or ?Alchemy? character, put it into your stock.[(If it is not, return the revealed card to is its original place.)</text>
             </card>
 			
 			<card>
@@ -6295,7 +6295,7 @@
             <type>Character - Master Insect</type>
 			<pt>4000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] Assist All of your characters in front of this card get the following ability."[AUTO]?(1)? When this card becomes ?REVERSE?, if the level of this card's battle opponent is lower than or equal to the level of this card, you may pay the cost. If you do, ?REVERSE? that character."</text>
+            <text>[CONT] Assist All of your characters in front of this card get the following ability."[AUTO][(1)? When this card becomes ?REVERSE?, if the level of this card's battle opponent is lower than or equal to the level of this card, you may pay the cost. If you do, ?REVERSE? that character."</text>
             </card>
 			
 			<card>
@@ -6328,7 +6328,7 @@
             <type>Character - Insect</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>?ACT??Put the top card of your deck into your clock and ?REST? this card] Choose one of your ?Master? characters, and that character gets +2500 power until end of turn.</text>
+            <text>[ACT]?Put the top card of your deck into your clock and ?REST? this card] Choose one of your ?Master? characters, and that character gets +2500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6339,7 +6339,7 @@
             <type>Character - Homunculus Alchemy</type>
 			<pt>2000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] Bond?""Mage-Killer" Kiritsugu" ?(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Mage-Killer" Kiritsugu" in your waiting room, and return it to your hand.) [AUTO] Bond?"Puppet of Einzbern, Irisviel" ?(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Puppet of Einzbern, Irisviel" in your waiting room, and return it to your hand.)</text>
+            <text>[AUTO] Bond?""Mage-Killer" Kiritsugu" [(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Mage-Killer" Kiritsugu" in your waiting room, and return it to your hand.) [AUTO] Bond?"Puppet of Einzbern, Irisviel" [(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Puppet of Einzbern, Irisviel" in your waiting room, and return it to your hand.)</text>
             </card>
 			
 			<card>
@@ -6394,7 +6394,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>7500/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of other ?Master? or ?Servant? characters you have is three or more, this unit gets "[AUTO] Encore ?Put a character from your hand into your waiting room?". ?ACT??(1)] Choose one of your ?Servant? characters, and that character gets +1500 power until end of turn.</text>
+            <text>[CONT] If the number of other ?Master? or ?Servant? characters you have is three or more, this unit gets "[AUTO] Encore ?Put a character from your hand into your waiting room?". [ACT][(1)] Choose one of your ?Servant? characters, and that character gets +1500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6405,7 +6405,7 @@
             <type>Character - Insect</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[AUTO][Put a level 2 or higher character from your hand into your waiting room and ?REST? this card] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a ?Master? character in your waiting room, and return it to your hand. ?ACT??Counter? Backup 1500, Level 1 ?Put this card from your hand into your waiting room? ?Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.?</text>
+            <text>[AUTO][Put a level 2 or higher character from your hand into your waiting room and ?REST? this card] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a ?Master? character in your waiting room, and return it to your hand. [ACT]?Counter? Backup 1500, Level 1 ?Put this card from your hand into your waiting room? ?Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.?</text>
             </card>
 			
 			<card>
@@ -6460,7 +6460,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO]?(1) Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one green climax or a card named "Excalibur", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
+            <text>[AUTO][(1) Put a climax from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one green climax or a card named "Excalibur", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -6504,7 +6504,7 @@
             <type>Character - Master Weapon</type>
 			<pt>2500/1</pt>
             <tablerow>3</tablerow>
-            <text>?ACT??Counter? Backup 3000, Level 2 ?(1) Put this card from your hand into your waiting room] ?Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.?</text>
+            <text>[ACT]?Counter? Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] ?Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.?</text>
             </card>
 			
 			<card>
@@ -6704,7 +6704,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Servant Mask</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>?ACT???REST? two of your ?Master? characters] Until end of turn, this card's soul does not decrease by side attacking.</text>
+            <text>[ACT]??REST? two of your ?Master? characters] Until end of turn, this card's soul does not decrease by side attacking.</text>
             </card>
 			
 			<card>
@@ -6715,7 +6715,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Jewel</type>
 			<pt>1000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand, choose another of your ?Jewel? characters, and that character gets +1000 power until end of turn. [AUTO]?(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.</text>
+            <text>[AUTO] When this card is placed on stage from your hand, choose another of your ?Jewel? characters, and that character gets +1000 power until end of turn. [AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a character in your waiting room, and return it to your hand.</text>
             </card>
 			
 			<card>
@@ -6770,7 +6770,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Master Love</type>
 			<pt>1000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] Bond?"Lancer - Red Spear Which Cancels Magic" ?(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Lancer - Red Spear Which Cancels Magic" in your waiting room, and return it to your hand.)</text>
+            <text>[AUTO] Bond?"Lancer - Red Spear Which Cancels Magic" [(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Lancer - Red Spear Which Cancels Magic" in your waiting room, and return it to your hand.)</text>
             </card>
 			
 			<card>
@@ -6781,7 +6781,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Master Jewel</type>
 			<pt>5000/1</pt>
             <tablerow>2</tablerow>
-            <text>?ACT???REST? two of your ?Master? characters? This card gets +1 level and +2000 power until end of turn.</text>
+            <text>[ACT]??REST? two of your ?Master? characters? This card gets +1 level and +2000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6839,7 +6839,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <tablerow>2</tablerow>
             <text>[CONT] During your opponent's turn, this card gets +1000 power.
 [AUTO] When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
-?ACT?[(1)? This card gets +1000 power until end of your opponent's next turn. </text>
+[ACT][(1)? This card gets +1000 power until end of your opponent's next turn. </text>
             </card>
 			
 			<card>
@@ -6850,7 +6850,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Avatar Weapon</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>?ACT?[(1)? Choose one of your ?Avatar? or ?Net? characters, and that character gets +1500 power until end of turn.</text>
+            <text>[ACT][(1)? Choose one of your ?Avatar? or ?Net? characters, and that character gets +1500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -15390,7 +15390,7 @@ You may put the top card of your Clock in your Waiting Room. Send this to Memory
 			<type>Character - Magic Book</type>
 			<pt>2000/1</pt>
 			<tablerow>3</tablerow>
-			<text>?S?? ASSIST 2000 Level 1?? Place this card from Hand to Waiting Room?(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)</text>
+			<text>?S?? ASSIST 2000 Level 1?? Place this card from Hand to Waiting Room[(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)</text>
 			</card>
 			
 			<card>
