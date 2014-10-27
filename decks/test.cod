@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="&quot;Gangster&quot; Lucy"/>
+        <card number="1" price="0" name="&quot;Gangster&quot; Natsu"/>
+        <card number="1" price="0" name="Kanade, Student Council President"/>
+        <card number="1" price="0" name="Yui, Big Fan of GirlDeMo"/>
+    </zone>
+</cockatrice_deck>

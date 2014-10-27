@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Umi umi uu</deckname>
+    <comments>Best gurl :)</comments>
+    <zone name="main">
+        <card number="2" price="0" name="Umi, Japanese Lady"/>
+        <card number="2" price="0" name="Umi, Second-Year Student at Otonokizaka Academy"/>
+        <card number="2" price="0" name="Umi, Second-Year Student at Otonokizaka Academy (SR)"/>
+        <card number="2" price="0" name="Umi, Explosion of Fantasizing"/>
+        <card number="2" price="0" name="Umi, Archery Club"/>
+        <card number="2" price="0" name="Our LIVE is LIFE with You Umi Sonoda (SP)"/>
+        <card number="2" price="0" name="Umi, Youth Days"/>
+        <card number="2" price="0" name="New Start Myu's (d)"/>
+        <card number="2" price="0" name="Tight 'love' Approaching! Myu's (d)"/>
+        <card number="2" price="0" name="Umi Sonoda"/>
+        <card number="2" price="0" name="Wonderful Rush Umi Sonoda"/>
+        <card number="2" price="0" name="No brand girls Umi (XR)"/>
+        <card number="2" price="0" name="Concentration Umi"/>
+        <card number="2" price="0" name="Lovebind Umi"/>
+        <card number="2" price="0" name="Umi in Pajama"/>
+        <card number="2" price="0" name="Umi in Lesson Outfit"/>
+        <card number="4" price="0" name="Snow halation"/>
+        <card number="2" price="0" name="White Rabbit of Luck Umi"/>
+        <card number="2" price="0" name="Umi in Casual Clothing"/>
+        <card number="4" price="0" name="You Are the Worst!"/>
+        <card number="2" price="0" name="School Idol Festival Umi"/>
+        <card number="2" price="0" name="Going Out Together~ Umi"/>
+        <card number="2" price="0" name="Everyone Tree Climbing"/>
+    </zone>
+</cockatrice_deck>
