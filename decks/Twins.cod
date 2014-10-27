@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Twins</deckname>
+    <comments>LS</comments>
+    <zone name="main">
+        <card number="3" price="0" name="Kagami and Tsukasa"/>
+        <card number="3" price="0" name="Tsukasa, Pampered Child"/>
+        <card number="3" price="0" name="Tsukasa, Natural"/>
+        <card number="4" price="0" name="Tsukasa, Loves Snacks"/>
+        <card number="4" price="0" name="Tsukasa, Dreaming Maiden"/>
+        <card number="4" price="0" name="Tsukasa, Dressed Up"/>
+        <card number="4" price="0" name="Tsukasa Hiiragi"/>
+        <card number="3" price="0" name="Kagami-sama"/>
+        <card number="4" price="0" name="Kagami, Older Sister of the Twins"/>
+        <card number="4" price="0" name="Kagami, 100 Times Cuter"/>
+        <card number="4" price="0" name="Kagami Hiiragi"/>
+        <card number="3" price="0" name="Summer Festival"/>
+        <card number="3" price="0" name="Graduation Ceremony"/>
+        <card number="2" price="0" name="Goldfish Scooping"/>
+        <card number="2" price="0" name="The Most Natural Thing"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>SAO Quad</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Kirito's Natural Gentleness"/>
+        <card number="2" price="0" name="Kirito Discovers a Unique Skill"/>
+        <card number="2" price="0" name="Kendo Girl, Suguha"/>
+        <card number="2" price="0" name="&quot;Dual-wielding&quot; User"/>
+        <card number="2" price="0" name="&quot;Black Swordsman&quot; Kirito"/>
+        <card number="2" price="0" name="Returning to the Front Line"/>
+        <card number="2" price="0" name="Asuna Replies to a Proposal"/>
+        <card number="2" price="0" name="Asuna's Commanding Strength"/>
+        <card number="2" price="0" name="Leafa's Pure Wish"/>
+        <card number="2" price="0" name="Like a Younger Sister, Silica"/>
+        <card number="2" price="0" name="Pina's Ressurection"/>
+        <card number="2" price="0" name="Marriage Proposal"/>
+        <card number="2" price="0" name="Kirito Joins the Knights of the Blood Oath"/>
+        <card number="2" price="0" name="Asuna's Strong Bond"/>
+        <card number="2" price="0" name="Imprisoned Queen, Asuna"/>
+        <card number="2" price="0" name="Asuna's True Expression"/>
+        <card number="2" price="0" name="Encouraging Lisbeth"/>
+        <card number="2" price="0" name="Lisbeth's Positive Smile"/>
+        <card number="2" price="0" name="Lisbeth's Professional Pride"/>
+        <card number="2" price="0" name="Suguha's Shaken Feelings"/>
+        <card number="2" price="0" name="Repressed Feelings"/>
+        <card number="2" price="0" name="&quot;Star Splash&quot;"/>
+        <card number="2" price="0" name="Asuna Invites to Party"/>
+        <card number="2" price="0" name="Lisbeth's Blessings"/>
+        <card number="2" price="0" name="Self-Sacrifice"/>
+    </zone>
+</cockatrice_deck>
