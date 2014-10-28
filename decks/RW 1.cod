@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RW 1</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Chihaya Ohtori"/>
+        <card number="4" price="0" name="Protection Bandage Chihaya"/>
+        <card number="4" price="0" name="Chihaya in Swimsuit"/>
+        <card number="4" price="0" name="Mischievous Big Eater Girl Chihaya"/>
+        <card number="3" price="0" name="Chihaya's Butler Sakuya"/>
+        <card number="4" price="0" name="Awaken Spell Chihaya"/>
+        <card number="2" price="0" name="Atonement"/>
+        <card number="4" price="0" name="Strongest Monster Sakuya"/>
+        <card number="3" price="0" name="Sakuya VS Kotarou"/>
+        <card number="4" price="0" name="Fate of Scattered Cherry Blossom Sakuya"/>
+        <card number="3" price="0" name="Lost Transfer Student"/>
+        <card number="4" price="0" name="Chihaya in Uniform"/>
+        <card number="4" price="0" name="Young Lady of Ohtori Household Chihaya"/>
+        <card number="4" price="0" name="Sakuya Ohtori"/>
+    </zone>
+</cockatrice_deck>

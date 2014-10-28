@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nisekoi 1</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Pendant of Promise (Red)"/>
+        <card number="2" price="0" name="Marika, Maiden's Heart"/>
+        <card number="3" price="0" name="Kosaki, Maiden's Heart"/>
+        <card number="3" price="0" name="Kosaki, Angel in White Clothing"/>
+        <card number="4" price="0" name="Kosaki, First Visit"/>
+        <card number="2" price="0" name="Ruri, Kosaki's Dear Friend"/>
+        <card number="2" price="0" name="Pendant of Promise (Blue)"/>
+        <card number="4" price="0" name="Chitoge, Surprising Side"/>
+        <card number="4" price="0" name="Raku Being Similar"/>
+        <card number="4" price="0" name="Marika in Swimsuits"/>
+        <card number="3" price="0" name="Marika, Long-Awaited Reunion"/>
+        <card number="3" price="0" name="Marika, Raku's Fiancee"/>
+        <card number="3" price="0" name="Marika, Daughter of the Police Chief"/>
+        <card number="4" price="0" name="Feelings of 10 Years"/>
+        <card number="4" price="0" name="Promise of a Day Long Gone"/>
+        <card number="3" price="0" name="Marika, Loving Carnage"/>
+    </zone>
+</cockatrice_deck>
