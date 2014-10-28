@@ -3544,7 +3544,7 @@
             <type>Character - Alien Magic</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] All of your other {Magic} characters get +500 power. [CONT] If you would pay the "Change" cost for one of your characters, you may put a marker from underneath this card into your waiting room instead of a card from your stock. [AUTO] When this card is placed on stage from your hand, put the top card of your deck underneath this card as a marker.</text>
+            <text>[CONT] All of your other ::Magic:: characters get +500 power. [CONT] If you would pay the "Change" cost for one of your characters, you may put a marker from underneath this card into your waiting room instead of a card from your stock. [AUTO] When this card is placed on stage from your hand, put the top card of your deck underneath this card as a marker.</text>
             </card>
 			
 			<card>
@@ -3555,7 +3555,7 @@
             <type>Character - Magic Tea</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one {Magic} character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. [AUTO][CLOCK] Shift, Level 0 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them.)</text>
+            <text>[AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, search your deck for up to one ::Magic:: character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. [AUTO][CLOCK] Shift, Level 0 (At the beginning of your main phase, you may choose a yellow card in your hand and this card in your clock, and exchange them.)</text>
             </card>
 
 			<card>
@@ -3566,7 +3566,7 @@
             <type>Character - Magic Tea</type>
 			<pt>5000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand, if the number of other {Magic} characters you have is two or more, this card gets +2000 power until end of turn.</text>
+            <text>[AUTO] When this card is placed on stage from your hand, if the number of other ::Magic:: characters you have is two or more, this card gets +2000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -3687,7 +3687,7 @@
             <type>Character - Magic Love</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] This card gets +500 power for each of your other {Magic} characters. [AUTO] When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. [AUTO] When this card becomes [REVERSE] in battle, put this card into your memory.</text>
+            <text>[CONT] This card gets +500 power for each of your other ::Magic:: characters. [AUTO] When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. [AUTO] When this card becomes [REVERSE] in battle, put this card into your memory.</text>
             </card>
 			
 			<card>
@@ -3709,7 +3709,7 @@
             <type>Character - Magic Sweets</type>
 			<pt>4000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].) [ACT][[REST] one of your {Magic} characters] This card gets +1500 power until end of turn.</text>
+            <text>[AUTO] Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].) [ACT][[REST] one of your ::Magic:: characters] This card gets +1500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -3731,7 +3731,7 @@
             <type>Character - Magic Sweets</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand or by a "Change" effect, you may choose a {Magic} character in your waiting room, and return it to your hand. [ACT][(1) [REST] two of your characters] Until end of turn, this card gets +2000 power and the following ability."[AUTO] When this card's battle opponent becomes [REVERSE], you may put that character on top of your opponent's deck."</text>
+            <text>[AUTO] When this card is placed on stage from your hand or by a "Change" effect, you may choose a ::Magic:: character in your waiting room, and return it to your hand. [ACT][(1) [REST] two of your characters] Until end of turn, this card gets +2000 power and the following ability."[AUTO] When this card's battle opponent becomes [REVERSE], you may put that character on top of your opponent's deck."</text>
             </card>
 			
 			<card>
@@ -3808,7 +3808,7 @@
             <type>Character - Magic Time</type>
 			<pt>2500/1</pt>
             <tablerow>1</tablerow>
-            <text>[ACT] Brainstorm [(1) [REST] two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one {Magic} character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
+            <text>[ACT] BRAINSTORM [(1) [REST] two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, search your deck for up to one ::Magic:: character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -3830,7 +3830,7 @@
             <type>Character - Magic</type>
 			<pt>7500/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of other {Magic} characters you have is three or more, this card gets +1000 power. [AUTO] When this card attacks, if a card named "Don't tell anyone else in class, okay?" is in your climax area, choose up to one of your other characters, put that character into your memory, and at the beginning of your next draw phase, put that character in your memory on any position of your stage. [AUTO] When this card attacks, if a card named "Don't tell anyone else in class, okay?" is in your climax area, this card gets +2000 power until end of your opponent's next turn.</text>
+            <text>[CONT] If the number of other ::Magic:: characters you have is three or more, this card gets +1000 power. [AUTO] When this card attacks, if a card named "Don't tell anyone else in class, okay?" is in your climax area, choose up to one of your other characters, put that character into your memory, and at the beginning of your next draw phase, put that character in your memory on any position of your stage. [AUTO] When this card attacks, if a card named "Don't tell anyone else in class, okay?" is in your climax area, this card gets +2000 power until end of your opponent's next turn.</text>
             </card>
 			
 			<card>
@@ -3852,7 +3852,7 @@
             <type>Character - Magic Time</type>
 			<pt>6000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of {Magic} characters you have is two or less, you cannot play this card from your hand.</text>
+            <text>[CONT] If the number of ::Magic:: characters you have is two or less, you cannot play this card from your hand.</text>
             </card>
 			
 			<card>
@@ -3874,7 +3874,7 @@
             <type>Character - Magic Time</type>
 			<pt>8000/2</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of cards in your stock is five or more, this card gets +1000 power. [AUTO][Put a {Magic} character from your hand into your waiting room and put this card into your memory] When this card becomes [REVERSE] in battle, you may pay the cost. If you do, at the beginning of your next draw phase, choose a card named "Magical Girl of Time, Homura" in your memory, and put it on any position of your stage.</text>
+            <text>[CONT] If the number of cards in your stock is five or more, this card gets +1000 power. [AUTO][Put a ::Magic:: character from your hand into your waiting room and put this card into your memory] When this card becomes [REVERSE] in battle, you may pay the cost. If you do, at the beginning of your next draw phase, choose a card named "Magical Girl of Time, Homura" in your memory, and put it on any position of your stage.</text>
             </card>
 			
 			<card>
@@ -3907,7 +3907,7 @@
             <type>Character - Magic Love</type>
 			<pt>1500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. [AUTO] When this card attacks, reveal the top card of your deck. If the revealed card is a {Magic} character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to is its original place.)</text>
+            <text>[AUTO] When this card is placed on stage from your hand, look at the top card of your deck, and put it on the top or the bottom of your deck. [AUTO] When this card attacks, reveal the top card of your deck. If the revealed card is a ::Magic:: character, put it into your hand, choose a card in your hand, and put it into your waiting room. (If it is not, return the revealed card to is its original place.)</text>
             </card>
 			
 			<card>
@@ -3918,7 +3918,7 @@
             <type>Character - Alien Magic</type>
 			<pt>2500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] If this card is on your center stage, your other {Magic} character in the middle positin of the center stage gets "[AUTO] Encore [Put the top card of your deck into your clock]".</text>
+            <text>[CONT] If this card is on your center stage, your other ::Magic:: character in the middle positin of the center stage gets "[AUTO] Encore [Put the top card of your deck into your clock]".</text>
             </card>
 			
 			<card>
@@ -4017,7 +4017,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>[Counter] Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of {Magic} characters you have.</text>
+            <text>[Counter] Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1000 multiplied by the number of ::Magic:: characters you have.</text>
             </card>
 			
 			<card>
@@ -4105,7 +4105,7 @@
             <type>Character - Magic Love</type>
 			<pt>8000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of other {Magic} characters you have is three or more, this card gets +1000 power.</text>
+            <text>[CONT] If the number of other ::Magic:: characters you have is three or more, this card gets +1000 power.</text>
             </card>
 			
 			<card>
@@ -4160,7 +4160,7 @@
             <type>Character - Magic Time</type>
 			<pt>4000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Magical Girl of Time, Homura" in your waiting room, and put it on the stage position that this card was on. [ACT][[REST] this card] Choose one of your {Magic} characters, and that character gets +1000 power until end of your opponent's next turn.</text>
+            <text>[AUTO] Change [(1) Put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Magical Girl of Time, Homura" in your waiting room, and put it on the stage position that this card was on. [ACT][[REST] this card] Choose one of your ::Magic:: characters, and that character gets +1000 power until end of your opponent's next turn.</text>
             </card>
 			
 			<card>
@@ -4193,7 +4193,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>Choose one of your [STAND] {Magic} characters, and [REST] it. If you do, draw up to two cards, choose a card in your hand, and put it into your waiting room.</text>
+            <text>Choose one of your [STAND] ::Magic:: characters, and [REST] it. If you do, draw up to two cards, choose a card in your hand, and put it into your waiting room.</text>
             </card>
 			
 			<card>
@@ -4215,7 +4215,7 @@
             <type>Character - Magic Sweets</type>
 			<pt>2000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist". [AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a {Magic} character in your waiting room, and return it to your hand.</text>
+            <text>[CONT] Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by the number of characters you have with "Assist". [AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a ::Magic:: character in your waiting room, and return it to your hand.</text>
             </card>
 			
 			<card>
@@ -4226,7 +4226,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>All of your {Magic} characters get +1500 power until end of turn.</text>
+            <text>All of your ::Magic:: characters get +1500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -4237,7 +4237,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>Search your deck for up to one {Magic} character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
+            <text>Search your deck for up to one ::Magic:: character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -4248,7 +4248,7 @@
             <type>Character - Magic</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of other {Magic} characters you have is three or more, this card gets +1000 power. [AUTO] When this card is placed on stage from your hand, all of your characters get +2000 power until end of turn. [ACT][(1)] This card gets +2000 power until end of turn.</text>
+            <text>[CONT] If the number of other ::Magic:: characters you have is three or more, this card gets +1000 power. [AUTO] When this card is placed on stage from your hand, all of your characters get +2000 power until end of turn. [ACT][(1)] This card gets +2000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -4259,7 +4259,7 @@
             <type>Character - Magic</type>
 			<pt>500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a {Magic} character in your clock, return it to your hand, and put the top card of your deck into your clock. [AUTO] Bond_"Homura's Hidden Feelings" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Homura's Hidden Feelings" in your waiting room, and return it to your hand.)</text>
+            <text>[AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a ::Magic:: character in your clock, return it to your hand, and put the top card of your deck into your clock. [AUTO] Bond_"Homura's Hidden Feelings" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Homura's Hidden Feelings" in your waiting room, and return it to your hand.)</text>
             </card>
 			
 			<card>
@@ -4336,7 +4336,7 @@
             <type>Character - Magic Time</type>
 			<pt>5000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO][(1)] When this card attacks, if a card named "My very best friend" is in your climax area, you may pay the cost. If you do, all of your {Magic} characters get +2500 power until end of turn.</text>
+            <text>[AUTO][(1)] When this card attacks, if a card named "My very best friend" is in your climax area, you may pay the cost. If you do, all of your ::Magic:: characters get +2500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -4490,7 +4490,7 @@
             <type>Character - Magic</type>
 			<pt>2000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card attacks, choose another of your {Magic} characters, and that character gets +1000 power until end of your opponent's next turn.</text>
+            <text>[AUTO] When this card attacks, choose another of your ::Magic:: characters, and that character gets +1000 power until end of your opponent's next turn.</text>
             </card>
 			
 			<card>
@@ -4501,7 +4501,7 @@
             <type>Character - Magic Sweets</type>
 			<pt>7500/2</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of other {Magic} characters you have is three or more, this card gets +1000 power. [AUTO] Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)</text>
+            <text>[CONT] If the number of other ::Magic:: characters you have is three or more, this card gets +1000 power. [AUTO] Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)</text>
             </card>
 			
 			<card>
@@ -4556,7 +4556,7 @@
             <type>Character - Magic Love</type>
 			<pt>9500/2</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card becomes [REVERSE] in battle, put the top card of your deck into your clock, and [REST] this card. [ACT][[REST] one of your {Magic} characters] This card gets +1000 power until end of turn.</text>
+            <text>[AUTO] When this card becomes [REVERSE] in battle, put the top card of your deck into your clock, and [REST] this card. [ACT][[REST] one of your ::Magic:: characters] This card gets +1000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -4578,7 +4578,7 @@
             <type>Character - Magic</type>
 			<pt>4500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO][CLOCK] Shift, Level 1 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.) [ACT] Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your {Magic} characters, and that character gets +2000 power until end of turn.</text>
+            <text>[AUTO][CLOCK] Shift, Level 1 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.) [ACT] BRAINSTORM [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your ::Magic:: characters, and that character gets +2000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -4743,7 +4743,7 @@
             <type>Character - Avatar Weapon</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[ACT] Brainstorm [(1) [REST] two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one {Avatar} or {Net} or {Familiar} character in your waiting room, and return it to your hand.</text>
+            <text>[ACT] BRAINSTORM [(1) [REST] two of your characters] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose up to one {Avatar} or {Net} or {Familiar} character in your waiting room, and return it to your hand.</text>
             </card>
 			
 			<card>
@@ -5018,7 +5018,7 @@
             <type>Character - Avatar Weapon</type>
 			<pt>2000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is an {Avatar} or {Net} character, choose one of your characters, and that character gets +1000 power until end of turn. (The revealed cards are returned to their original place.) [ACT] Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your {Avatar} or {Net} characters, and that character gets +1000 power until end of your opponent's next turn.</text>
+            <text>[AUTO] When this card is placed on stage from your hand, reveal the top card of your deck. If the revealed card is an {Avatar} or {Net} character, choose one of your characters, and that character gets +1000 power until end of turn. (The revealed cards are returned to their original place.) [ACT] BRAINSTORM [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, choose one of your {Avatar} or {Net} characters, and that character gets +1000 power until end of your opponent's next turn.</text>
             </card>
 			
 			<card>
@@ -5040,7 +5040,7 @@
             <type>Character - Net Sports</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[ACT] Brainstorm [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, this card gets +3000 power until end of turn.</text>
+            <text>[ACT] BRAINSTORM [(1)] Reveal four cards from the top of your deck, and put them into your waiting room. For each climax revealed, this card gets +3000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -5700,7 +5700,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>Brainstorm [1] Reveal four cards from the top of your deck and put them into your waiting room.  For each climax, choose one of your "Servant" characters and that character gets +2000 power until end of turn.  </text>
+            <text>BRAINSTORM [1] Reveal four cards from the top of your deck and put them into your waiting room.  For each climax, choose one of your "Servant" characters and that character gets +2000 power until end of turn.  </text>
             </card>
 			
 			<card>
@@ -5711,7 +5711,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>Brainstorm [1] Reveal four cards from the top of your deck and put them into your waiting room.  For each climax, choose one of your "Servant" characters and that character gets +2000 power until end of turn.  </text>
+            <text>BRAINSTORM [1] Reveal four cards from the top of your deck and put them into your waiting room.  For each climax, choose one of your "Servant" characters and that character gets +2000 power until end of turn.  </text>
             </card>
 			
 			<card>
@@ -5722,7 +5722,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. [AUTO][(1) Put a card named "Sword of Rupture, Ea" from your hand into your waiting room? At the beginning of your opponent's attack phase, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's climax in the climax area, put it into your opponent's waiting room, and this card gets +5500 power until end of turn.</text>
+            <text>[AUTO] When this card is placed on stage from your hand, you may put the top card of your clock into your waiting room. [AUTO][(1) Put a card named "Sword of Rupture, Ea" from your hand into your waiting room] At the beginning of your opponent's attack phase, if this card is on the center stage, you may pay the cost. If you do, choose one of your opponent's climax in the climax area, put it into your opponent's waiting room, and this card gets +5500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -5733,7 +5733,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] This card gets +500 power for each of your opponent's ?REST? characters. [AUTO][(1)? During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes ?REVERSE?, you may pay the cost. If you do, put that character into your opponent's clock. [AUTO][(2)? At the beginning of your encore step, you may pay the cost. If you do, choose another of your characters and this card, and put them into your memory. At the beginning of your next draw phase, put those characters from your memory on to separate positions of your stage. </text>
+            <text>[CONT] This card gets +500 power for each of your opponent's [REST] characters. [AUTO][(1)] During the turn that this card is placed on stage from your hand, when this card's battle opponent becomes [REVERSE], you may pay the cost. If you do, put that character into your opponent's clock. [AUTO][(2)] At the beginning of your encore step, you may pay the cost. If you do, choose another of your characters and this card, and put them into your memory. At the beginning of your next draw phase, put those characters from your memory on to separate positions of your stage. </text>
             </card>
 			
 			<card>
@@ -5778,7 +5778,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of cards in your hand is four or less, this card gets +1000 power. [CONT] The character facing this card gets -1 soul. [AUTO] When this card's battle opponent becomes ?REVERSE?, choose another of your ?Servant? characters, and that character gets +1 soul until end of turn.</text>
+            <text>[CONT] If the number of cards in your hand is four or less, this card gets +1000 power. [CONT] The character facing this card gets -1 soul. [AUTO] When this card's battle opponent becomes [REVERSE], choose another of your ::Servant:: characters, and that character gets +1 soul until end of turn.</text>
             </card>
 			
 			<card>
@@ -5789,7 +5789,7 @@
             <type>Character - Void Master</type>
 			<pt>3000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] During your opponent's turn, all of your other ?Master? characters get +1000 power. [AUTO] Change [(4) Put a climax from your hand into your waiting room and put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Kirei Kotomine" in your waiting room, and put it on the stage position that this card was on.</text>
+            <text>[CONT] During your opponent's turn, all of your other ::Master:: characters get +1000 power. [AUTO] Change [(4) Put a climax from your hand into your waiting room and put this card into your waiting room] At the beginning of your draw phase, you may pay the cost. If you do, choose a card named "Kirei Kotomine" in your waiting room, and put it on the stage position that this card was on.</text>
             </card>
 			
 			<card>
@@ -5800,7 +5800,7 @@
             <type>Character - Homunculus Alchemy</type>
 			<pt>3000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO][(1)] When this card attacks, if a card named "Sign of Determination" is in your climax area, you may pay the cost. If you do, search your deck for up to one level 1 or higher ?Master? or ?Servant? character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
+            <text>[AUTO][(1)] When this card attacks, if a card named "Sign of Determination" is in your climax area, you may pay the cost. If you do, search your deck for up to one level 1 or higher ::Master:: or ::Servant:: character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -5811,7 +5811,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>6500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] Encore [Put the top card of your deck into your clock] ?When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as ?REST?.)</text>
+            <text>[AUTO] Encore [Put the top card of your deck into your clock] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)</text>
             </card>
 			
 			<card>
@@ -5833,7 +5833,7 @@
             <type>Character - Master Weapon</type>
 			<pt>1000/1</pt>
             <tablerow>1</tablerow>
-            <text>[AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named ""Riding" Skill, Saber", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. [AUTO] When this card becomes ?REVERSE?, if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of his or her stock into the waiting room.</text>
+            <text>[AUTO][(2)] When this card is placed on stage from your hand, you may pay the cost. If you do, seach your deck for up to one card named ""Riding" Skill, Saber", reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards. [AUTO] When this card becomes [REVERSE], if this card's battle opponent is level 0 or lower, you may put that character into your opponent's stock. If you do, your opponent puts the bottom card of his or her stock into the waiting room.</text>
             </card>
 			
 			<card>
@@ -5855,7 +5855,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>1500/1</pt>
             <tablerow>3</tablerow>
-            <text>[AUTO] When you use this card's "Backup", choose one of your ?Servant? characters, and that character gets +1000 power until end of turn.</text>
+            <text>[AUTO] When you use this card's "Backup", choose one of your ::Servant:: characters, and that character gets +1000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -5866,7 +5866,7 @@
             <type>Character - Master Weapon</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand, choose one of your characters, and that character gets +4000 power and +1 soul until end of turn. [AUTO] When damage from this card is canceled during its attack, if a card named "Origin Shot" is in your climax area, you may choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock.</text>
+            <text>[AUTO] When this card is placed on stage from your hand, choose one of your characters, and that character gets +4000 power and +1 soul until end of turn. [AUTO] When damage from this card is cancelled during its attack, if a card named "Origin Shot" is in your climax area, you may choose one of your opponent's level 3 or lower characters on the center stage, and put it into your opponent's stock.</text>
             </card>
 			
 			<card>
@@ -5877,7 +5877,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>4500/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If a red climax is in your climax area, this card gets the following ability."[AUTO] When this card becomes ?REVERSE?, if this card's battle opponent is cost 1 or less, you may ?REVERSE? that character." [AUTO] Encore ?Put a character from your hand into your waiting room? ?When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as ?REST?.)</text>
+            <text>[CONT] If a red climax is in your climax area, this card gets the following ability."[AUTO] When this card becomes [REVERSE], if this card's battle opponent is cost 1 or less, you may [REVERSE] that character." [AUTO] Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)</text>
             </card>
 			
 			<card>
@@ -5888,7 +5888,7 @@
             <type>Character - Void Master</type>
 			<pt>10000/2</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room. [ACT][(2) ?REST? two of your characters? Search your deck for up to one ?Master? or ?Servant? character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
+            <text>[AUTO] When this card is placed on stage from your hand or by a "Change" effect, you may put the top card of your clock into your waiting room. [ACT][(2) [REST] two of your characters? Search your deck for up to one ::Master:: or ::Servant:: character, reveal it to your opponent, and put it into your hand. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -5899,7 +5899,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>4000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] All of your other ?Servant? characters get +1000 power. [AUTO][(3) Put a card from your hand into your waiting room] When a card named "Ionian Hetairoi" is placed on your climax area, you may pay the cost. If you do, search your deck for up to three cost 0 or less ?Servant? characters, and put them on separate positions of your stage. Shuffle your deck afterwards.</text>
+            <text>[CONT] All of your other ::Servant:: characters get +1000 power. [AUTO][(3) Put a card from your hand into your waiting room] When a card named "Ionian Hetairoi" is placed on your climax area, you may pay the cost. If you do, search your deck for up to three cost 0 or less ::Servant:: characters, and put them on separate positions of your stage. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
@@ -5921,7 +5921,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>?Counter? Choose one of your ?Servant? characters, and that character gets +4500 power until end of turn.</text>
+            <text>[Counter] Choose one of your ::Servant:: characters, and that character gets +4500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -5943,7 +5943,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If you do not have any other characters, this card gets +1500 power, and this card cannot become ?REVERSE? by [AUTO] effects of your opponent's characters.</text>
+            <text>[CONT] If you do not have any other characters, this card gets +1500 power, and this card cannot become [REVERSE] by [AUTO] effects of your opponent's characters.</text>
             </card>
 			
 			<card>
@@ -5954,7 +5954,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] If the number of cards in your stock is three or more, this card gets the following ability."[AUTO] When this card becomes ?REVERSE?, if this card's battle opponent is level 0 or lower, you may ?REVERSE? that character." [AUTO] Bond?"Kirei Kotomine" [Put the top card of your deck into your clock] ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Kirei Kotomine" in your waiting room, and return it to your hand.)</text>
+            <text>[CONT] If the number of cards in your stock is three or more, this card gets the following ability."[AUTO] When this card becomes [REVERSE], if this card's battle opponent is level 0 or lower, you may [REVERSE] that character." [AUTO] Bond?"Kirei Kotomine" [Put the top card of your deck into your clock] ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Kirei Kotomine" in your waiting room, and return it to your hand.)</text>
             </card>
 			
 			<card>
@@ -5965,7 +5965,7 @@
             <type>Character - Void Master</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO]?Put a ?Master? character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, draw a card.</text>
+            <text>[AUTO]?Put a ::Master:: character from your hand into your waiting room] When this card is placed on stage from your hand, you may pay the cost. If you do, draw a card.</text>
             </card>
 			
 			<card>
@@ -6009,7 +6009,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>Choose a ?Servant? character in your waiting room, and return it to your hand. Choose one of your ?Master? characters, and that character gets +3000 power until end of turn.</text>
+            <text>Choose a ::Servant:: character in your waiting room, and return it to your hand. Choose one of your ::Master:: characters, and that character gets +3000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6020,7 +6020,7 @@
             <type>Character - Servant Weapon</type>
 			<pt>5500/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] This card cannot direct attack. [AUTO] Encore ?Put a character from your hand into your waiting room? ?When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as ?REST?.)</text>
+            <text>[CONT] This card cannot direct attack. [AUTO] Encore ?Put a character from your hand into your waiting room? ?When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)</text>
             </card>
 			
 			<card>
@@ -6042,7 +6042,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>Search your deck for up to one ?Master? character and up to one ?Servant? character, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards. Choose a card in your hand, and put it into your waiting room. Put this card into your clock.</text>
+            <text>Search your deck for up to one ::Master:: character and up to one ::Servant:: character, reveal them to your opponent, and put them into your hand. Shuffle your deck afterwards. Choose a card in your hand, and put it into your waiting room. Put this card into your clock.</text>
             </card>
 			
 			<card>
@@ -6064,7 +6064,7 @@
             <type>Character - Master Alchemy</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] Assist All of your characters in front of this card get +500 power. [ACT][?REST? two of your characters] Choose one of your characters with "Lancer" in its card name, and until end of turn that character gets +1500 power and the following ability."[CONT] If the character facing this card is a higher level than this card, this card cannot attack."</text>
+            <text>[CONT] Assist All of your characters in front of this card get +500 power. [ACT][[REST] two of your characters] Choose one of your characters with "Lancer" in its card name, and until end of turn that character gets +1500 power and the following ability."[CONT] If the character facing this card is a higher level than this card, this card cannot attack."</text>
             </card>
 			
 			<card>
@@ -6141,7 +6141,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>2500</pt>
             <tablerow>3</tablerow>
-            <text>[AUTO][(1)? When you use this card's "Backup", you may pay the cost. If you do, choose one of your ?Master? or ?Servant? characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level. [ACT]?Counter? Backup 1000, Level 1 ?Put this card from your hand into your waiting room? ?Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.?</text>
+            <text>[AUTO][(1)] When you use this card's "Backup", you may pay the cost. If you do, choose one of your ::Master:: or ::Servant:: characters in battle, and that character gets +X power until end of turn. X is equal to 500 multiplied by that character's level. [ACT][Counter] Backup 1000, Level 1 ?Put this card from your hand into your waiting room? ?Choose one of your characters that is being frontal attacked, and that character gets +1000 power until end of turn.?</text>
             </card>
 			
 			<card>
@@ -6185,7 +6185,7 @@
             <type>Character - Master Jewel</type>
 			<pt>1500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] All of your other ?Royalty? characters get +500 power. [ACT][(2) ?REST? this card? Choose a ?Servant? character in your waiting room, and return it to your hand.</text>
+            <text>[CONT] All of your other ?Royalty? characters get +500 power. [ACT][(2) [REST] this card? Choose a ::Servant:: character in your waiting room, and return it to your hand.</text>
             </card>
 			
 			<card>
@@ -6251,7 +6251,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>?Counter? Each player returns all cards in his or her waiting room into his or her deck. Each player shuffles his or her deck afterwards. Choose a card in your hand, and put it into your waiting room. If you do, choose one of your characters, and that character gets +2000 power until end of turn.</text>
+            <text>[Counter] Each player returns all cards in his or her waiting room into his or her deck. Each player shuffles his or her deck afterwards. Choose a card in your hand, and put it into your waiting room. If you do, choose one of your characters, and that character gets +2000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6262,7 +6262,7 @@
             <type>Character - Weapon</type>
 			<pt>1000/1</pt>
             <tablerow>1</tablerow>
-            <text>[AUTO] When another of your character's battle opponent becomes ?REVERSE?, choose one of your characters, and that character gets +1000 power until end of turn. [AUTO] Encore ?Put a character from your hand into your waiting room? ?When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as ?REST?.)</text>
+            <text>[AUTO] When another of your character's battle opponent becomes [REVERSE], choose one of your characters, and that character gets +1000 power until end of turn. [AUTO] Encore [Put a character from your hand into your waiting room] (When this card is put into your waiting room from the stage, you may pay the cost. If you do, return this card to its previous stage position as [REST].)</text>
             </card>
 			
 			<card>
@@ -6295,7 +6295,7 @@
             <type>Character - Master Insect</type>
 			<pt>4000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] Assist All of your characters in front of this card get the following ability."[AUTO][(1)? When this card becomes ?REVERSE?, if the level of this card's battle opponent is lower than or equal to the level of this card, you may pay the cost. If you do, ?REVERSE? that character."</text>
+            <text>[CONT] Assist All of your characters in front of this card get the following ability."[AUTO][(1)] When this card becomes [REVERSE], if the level of this card's battle opponent is lower than or equal to the level of this card, you may pay the cost. If you do, [REVERSE] that character."</text>
             </card>
 			
 			<card>
@@ -6306,7 +6306,7 @@
             <type>Character - Master Insect</type>
 			<pt>1000/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] All of your other ?Servant? characters get +500 power.</text>
+            <text>[CONT] All of your other ::Servant:: characters get +500 power.</text>
             </card>
 			
 			<card>
@@ -6328,7 +6328,7 @@
             <type>Character - Insect</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[ACT]?Put the top card of your deck into your clock and ?REST? this card] Choose one of your ?Master? characters, and that character gets +2500 power until end of turn.</text>
+            <text>[ACT]?Put the top card of your deck into your clock and [REST] this card] Choose one of your ::Master:: characters, and that character gets +2500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6339,7 +6339,7 @@
             <type>Character - Homunculus Alchemy</type>
 			<pt>2000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] Bond?""Mage-Killer" Kiritsugu" [(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Mage-Killer" Kiritsugu" in your waiting room, and return it to your hand.) [AUTO] Bond?"Puppet of Einzbern, Irisviel" [(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Puppet of Einzbern, Irisviel" in your waiting room, and return it to your hand.)</text>
+            <text>[AUTO] Bond ""Mage-Killer" Kiritsugu" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named ""Mage-Killer" Kiritsugu" in your waiting room, and return it to your hand.) [AUTO] Bond "Puppet of Einzbern, Irisviel" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Puppet of Einzbern, Irisviel" in your waiting room, and return it to your hand.)</text>
             </card>
 			
 			<card>
@@ -6394,7 +6394,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>7500/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of other ?Master? or ?Servant? characters you have is three or more, this unit gets "[AUTO] Encore ?Put a character from your hand into your waiting room?". [ACT][(1)] Choose one of your ?Servant? characters, and that character gets +1500 power until end of turn.</text>
+            <text>[CONT] If the number of other ::Master:: or ::Servant:: characters you have is three or more, this unit gets "[AUTO] Encore [Put a character from your hand into your waiting room]". [ACT][(1)] Choose one of your ::Servant:: characters, and that character gets +1500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6405,7 +6405,7 @@
             <type>Character - Insect</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[AUTO][Put a level 2 or higher character from your hand into your waiting room and ?REST? this card] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a ?Master? character in your waiting room, and return it to your hand. [ACT]?Counter? Backup 1500, Level 1 ?Put this card from your hand into your waiting room? ?Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.?</text>
+            <text>[AUTO][Put a level 2 or higher character from your hand into your waiting room and [REST] this card] When this card is placed on stage from your hand, you may pay the cost. If you do, choose a ::Master:: character in your waiting room, and return it to your hand. [ACT][Counter] Backup 1500, Level 1 [Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +1500 power until end of turn.)</text>
             </card>
 			
 			<card>
@@ -6471,7 +6471,7 @@
             <type>Character - Jewel</type>
 			<pt>8000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO]?Put a card from your hand into your waiting room? When this card attacks, if a red climax is in your climax area, you may pay the cost. If you do, choose a ?Master? or ?Servant? character in your waiting room, and return it to your hand.</text>
+            <text>[AUTO][Put a card from your hand into your waiting room] When this card attacks, if a red climax is in your climax area, you may pay the cost. If you do, choose a ::Master:: or ::Servant:: character in your waiting room, and return it to your hand.</text>
             </card>
 			
 			<card>
@@ -6504,7 +6504,7 @@
             <type>Character - Master Weapon</type>
 			<pt>2500/1</pt>
             <tablerow>3</tablerow>
-            <text>[ACT]?Counter? Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] ?Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.?</text>
+            <text>[ACT][Counter] Backup 3000, Level 2 [(1) Put this card from your hand into your waiting room] (Choose one of your characters that is being frontal attacked, and that character gets +3000 power until end of turn.)</text>
             </card>
 			
 			<card>
@@ -6526,7 +6526,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] Assist All of your characters in front of this card get +500 power. [AUTO]?CLOCK? Shift, Level 0 (At the beginning of your main phase, you may choose a red card in your hand and this card in your clock, and exchange them.)</text>
+            <text>[CONT] Assist All of your characters in front of this card get +500 power. [AUTO][CLOCK] Shift, Level 0 (At the beginning of your main phase, you may choose a red card in your hand and this card in your clock, and exchange them.)</text>
             </card>
 			
 			<card>
@@ -6537,7 +6537,7 @@
             <type>Character - Servant Royalty</type>
 			<pt>9500/2</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When this card is placed on stage from your hand, choose one of your ?STAND? ?Servant? characters, and ?REST? it.</text>
+            <text>[AUTO] When this card is placed on stage from your hand, choose one of your ?STAND? ::Servant:: characters, and [REST] it.</text>
             </card>
 			
 			<card>
@@ -6548,7 +6548,7 @@
             <type>Event</type>
 			<pt></pt>
             <tablerow>3</tablerow>
-            <text>?Counter? Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1500 multiplied by that character's cost.</text>
+            <text>[Counter] Choose one of your characters, and that character gets +X power until end of turn. X is equal to 1500 multiplied by that character's cost.</text>
             </card>
 			
 			<card>
@@ -6627,7 +6627,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Homunculus</type>
 			<pt>500/1</pt>
             <tablerow>1</tablerow>
-            <text>[CONT] All of your other ?Master? or ?Homunculus? characters get +500 power.</text>
+            <text>[CONT] All of your other ::Master:: or ?Homunculus? characters get +500 power.</text>
             </card>
 			
 			<card>
@@ -6704,7 +6704,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Servant Mask</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[ACT]??REST? two of your ?Master? characters] Until end of turn, this card's soul does not decrease by side attacking.</text>
+            <text>[ACT]?[REST] two of your ::Master:: characters] Until end of turn, this card's soul does not decrease by side attacking.</text>
             </card>
 			
 			<card>
@@ -6726,7 +6726,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Master Alchemy</type>
 			<pt>2000/1</pt>
             <tablerow>2</tablerow>
-            <text>[CONT] If the number of cards in your stock is two or less, this card gets +1500 power. [AUTO]?CLOCK? Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.)</text>
+            <text>[CONT] If the number of cards in your stock is two or less, this card gets +1500 power. [AUTO][Clock] Shift, Level 0 (At the beginning of your main phase, you may choose a green card in your hand and this card in your clock, and exchange them.)</text>
             </card>
 			
 			<card>
@@ -6748,7 +6748,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Master Death</type>
 			<pt>4500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When another of your or your opponent's character becomes ?REVERSE? in battle, this card gets +1000 power until end of turn.</text>
+            <text>[AUTO] When another of your or your opponent's character becomes [REVERSE] in battle, this card gets +1000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6770,7 +6770,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Master Love</type>
 			<pt>1000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] Bond?"Lancer - Red Spear Which Cancels Magic" [(1)? ?When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Lancer - Red Spear Which Cancels Magic" in your waiting room, and return it to your hand.)</text>
+            <text>[AUTO] Bond "Lancer - Red Spear Which Cancels Magic" [(1)] (When this card is played and placed on stage, you may pay the cost. If you do, choose a card named "Lancer - Red Spear Which Cancels Magic" in your waiting room, and return it to your hand.)</text>
             </card>
 			
 			<card>
@@ -6781,7 +6781,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Master Jewel</type>
 			<pt>5000/1</pt>
             <tablerow>2</tablerow>
-            <text>[ACT]??REST? two of your ?Master? characters? This card gets +1 level and +2000 power until end of turn.</text>
+            <text>[ACT][[REST] two of your ::Master:: characters] This card gets +1 level and +2000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6803,7 +6803,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Master Alchemy</type>
 			<pt>5500/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] When one of your characters attacks, choose another of your ?Servant? characters, and that character gets +1000 power until end of turn.</text>
+            <text>[AUTO] When one of your characters attacks, choose another of your ::Servant:: characters, and that character gets +1000 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6839,7 +6839,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <tablerow>2</tablerow>
             <text>[CONT] During your opponent's turn, this card gets +1000 power.
 [AUTO] When this card is frontal attacked, look at the top card of your deck, and put it on the top of your deck or into your waiting room.
-[ACT][(1)? This card gets +1000 power until end of your opponent's next turn. </text>
+[ACT][(1)] This card gets +1000 power until end of your opponent's next turn. </text>
             </card>
 			
 			<card>
@@ -6850,7 +6850,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Avatar Weapon</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>[ACT][(1)? Choose one of your ?Avatar? or ?Net? characters, and that character gets +1500 power until end of turn.</text>
+            <text>[ACT][(1)] Choose one of your ::Avatar:: or ::Net:: characters, and that character gets +1500 power until end of turn.</text>
             </card>
 			
 			<card>
@@ -6861,7 +6861,7 @@ Search your deck for up to one ?Weapon? or ?Alchemy? character, reveal it to you
             <type>Character - Avatar Weapon</type>
 			<pt>5000/1</pt>
             <tablerow>2</tablerow>
-            <text>[AUTO] Accelerate ?Put the top card of your deck into your clock? At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3500 power until end of turn.</text>
+            <text>[AUTO] Accelerate [Put the top card of your deck into your clock] At the beginning of your climax phase, you may pay the cost. If you do, this card gets +3500 power until end of turn.</text>
             </card>
 
 			<card>
@@ -8219,7 +8219,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			</text>
 			</card>
 			
-						<card>
+			<card>
 			<name>Araragi Karen and Araragi Tsukihi</name>
 			<set picURL="http://images2.littleakiba.com/tcg/weiss-schwarz/cards/card4194.jpg" picURLHq="" picURLSt="">WSBM</set>
 			<color>R</color>
@@ -8227,7 +8227,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Sports Yukata</type>
 			<pt>2500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A????When this card is placed from Stage into Waiting Room, you may pay this cost. If you did, choose up to 1 "Strange" Character from your Waiting Room, add it to hand.</text>
+			<text>[A][(2)]When this card is placed from Stage into Waiting Room, you may pay this cost. If you did, choose up to 1 ::Strange:: Character from your Waiting Room, add it to hand.</text>
 			</card>
 			
 			<card>
@@ -8249,7 +8249,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Stationery</type>
 			<pt>5000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?S????During this turn, this card gets +1000 Power, and gains the following ability. ??A?When this card's battle opponent becomes REVERSE, you may place that Character to the top of the Deck.?</text>
+			<text>[S][(1)]During this turn, this card gets +1000 Power, and gains the following ability. "[A] When this card's battle opponent becomes REVERSE, you may place that Character to the top of the Deck."</text>
 			</card>
 			
 			<card>
@@ -8260,7 +8260,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Spirit</type>
 			<pt>2000</pt>
 			<tablerow>3</tablerow>
-			<text>?S?? ASSIST 2000 LEVEL 1 [? Place this card to Waiting Room from hand] (Choose 1 of your Characters that is being Front Attacked, during this turn it gets +2000 Power)</text>
+			<text>[S] ASSIST 2000 LEVEL 1 [Place this card to Waiting Room from hand] (Choose 1 of your Characters that is being Front Attacked, during this turn it gets +2000 Power)</text>
 			</card>
 			
 			<card>
@@ -8282,7 +8282,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange</type>
 			<pt>8000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A?When another of your "Strange" Character attacks, during this turn, this card gets +1000 Power.</text>
+			<text>[A]When another of your ::Strange:: Character attacks, during this turn, this card gets +1000 Power.</text>
 			</card>
 			
 			<card>
@@ -8293,7 +8293,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Spirit</type>
 			<pt>8000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?C?If you have 2 or more other "Strange" Characters, this card gets +1000 Power.</text>
+			<text>[C]If you have 2 or more other ::Strange:: Characters, this card gets +1000 Power.</text>
 			</card>
 			
 			<card>
@@ -8304,7 +8304,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Sports</type>
 			<pt>8000/2</pt>
 			<tablerow>2</tablerow>
-			<text>?A? ENCORE ?Place 1 Character from Hand to Waiting Room? (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)</text>
+			<text>[A] ENCORE [Place 1 Character from Hand to Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)</text>
 			</card>
 			
 			<card>
@@ -8315,8 +8315,8 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Climax - Gate</type>
 			<pt></pt>
 			<tablerow>3</tablerow>
-			<text>?C?All your Characters get +1000 Power, +1 Soul.
-(Gate?When this card is Triggered, choose 1 Character from your Waiting Room, return to hand)</text>
+			<text>[C]All your Characters get +1000 Power, +1 Soul.
+(Gate: When this card is Triggered, choose 1 Character from your Waiting Room, return to hand)</text>
 			</card>
 			
 			<card>
@@ -8327,7 +8327,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange</type>
 			<pt>2500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?C?During your opponent's turn, this card gets +1000 Power.</text>
+			<text>[C]During your opponent's turn, this card gets +1000 Power.</text>
 			</card>
 			
 			<card>
@@ -8338,7 +8338,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Chairman</type>
 			<pt>2500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A?When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equals to the number of your "Strange" Characters ×500.</text>
+			<text>[A]When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equals to the number of your ::Strange:: Characters × 500.</text>
 			</card>
 			
 			<card>
@@ -8371,7 +8371,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Climax - Soul, Soul</type>
 			<pt></pt>
 			<tablerow>3</tablerow>
-			<text>?C?All your Characters get +2 Soul.</text>
+			<text>[C]All your Characters get +2 Soul.</text>
 			</card>
 			
 			<card>
@@ -8382,7 +8382,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Blood</type>
 			<pt>5000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A??Return 2 Characters from your Waiting Room into Deck. Shuffle your Deck afterwards?When this card attacks, you may pay this cost. If you did, during this turn, this card gets +2000 Power.</text>
+			<text>[A][Return 2 Characters from your Waiting Room into Deck. Shuffle your Deck afterwards] When this card attacks, you may pay this cost. If you did, during this turn, this card gets +2000 Power.</text>
 			</card>
 			
 			<card>
@@ -8393,7 +8393,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange</type>
 			<pt>6500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A?When this card attacks, choose up to 2 of your "Strange" Characters, during this turn, they get +500 Power.</text>
+			<text>[A]When this card attacks, choose up to 2 of your ::Strange:: Characters, during this turn, they get +500 Power.</text>
 			</card>
 			
 			<card>
@@ -8404,8 +8404,8 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Stationery</type>
 			<pt>10000/2</pt>
 			<tablerow>2</tablerow>
-			<text>?A?When this card is placed on Stage from Hand, choose 1 "Strange" Character from your Waiting Room, you may return it to Hand.
-?S??REST 2 of your "Strange" Characters?During this turn, this card gets +2500 Power.</text>
+			<text>[A]When this card is placed on Stage from Hand, choose 1 ::Strange:: Character from your Waiting Room, you may return it to Hand.
+[S]?REST 2 of your ::Strange:: Characters?During this turn, this card gets +2500 Power.</text>
 			</card>
 			
 			<card>
@@ -8416,7 +8416,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Climax - Soul, Soul</type>
 			<pt></pt>
 			<tablerow>3</tablerow>
-			<text>?A?When this card is placed into your Climax Slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.</text>
+			<text>[A]When this card is placed into your Climax Slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.</text>
 			</card>
 			
 			<card>
@@ -8427,7 +8427,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Chairman</type>
 			<pt>1000/1</pt>
 			<tablerow>1</tablerow>
-			<text>?C? SUPPORT All your Characters in front of this card gets +500 Power.</text>
+			<text>[C] SUPPORT All your Characters in front of this card gets +500 Power.</text>
 			</card>
 			
 			<card>
@@ -8438,8 +8438,8 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange</type>
 			<pt>6500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A?When this card attacks, if ?Girl who was Cursed? is in your Climax slot, search your Deck for up to 1 "Strange" Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
-?A?EXPERIENCE???When this card is placed on Stage from Hand, if the total Level of cards in your Level Zone is 4 or higher, you may pay this cost. If you did, search your Deck for up to 1 ?Girl who was Cursed?, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.</text>
+			<text>[A]When this card attacks, if ?Girl who was Cursed? is in your Climax slot, search your Deck for up to 1 ::Strange:: Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+[A]EXPERIENCE???When this card is placed on Stage from Hand, if the total Level of cards in your Level Zone is 4 or higher, you may pay this cost. If you did, search your Deck for up to 1 ?Girl who was Cursed?, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.</text>
 			</card>
 			
 			<card>
@@ -8450,8 +8450,8 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Spirit</type>
 			<pt>10000/2</pt>
 			<tablerow>2</tablerow>
-			<text>?A?When this card is placed on Stage from Hand, choose up to 2 of your other Characters, during this turn, it gets +1000 Power, +1 Soul.
-?A?EXPERIENCE When this card attacks, if the total Level of cards in your Level Zone is 4 or higher, choose 1 of your Characters, during this turn, it gets +1 Soul.</text>
+			<text>[A]When this card is placed on Stage from Hand, choose up to 2 of your other Characters, during this turn, it gets +1000 Power, +1 Soul.
+[A]EXPERIENCE When this card attacks, if the total Level of cards in your Level Zone is 4 or higher, choose 1 of your Characters, during this turn, it gets +1 Soul.</text>
 			</card>
 			
 			<card>
@@ -8462,8 +8462,8 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Blood</type>
 			<pt>1000/1</pt>
 			<tablerow>1</tablerow>
-			<text>?C?During your turn, all your other Characters get +500 Power.
-?A?When another of your "Strange" Character or this card is placed on Stage from Hand, you may look at the top card of your Deck.?Return that card to its original position?</text>
+			<text>[C]During your turn, all your other Characters get +500 Power.
+[A]When another of your ::Strange:: Character or this card is placed on Stage from Hand, you may look at the top card of your Deck.?Return that card to its original position?</text>
 			</card>
 			
 			<card>
@@ -8474,8 +8474,8 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Spirit</type>
 			<pt>1000/1</pt>
 			<tablerow>1</tablerow>
-			<text>?C?If you have another "Blood" Character, this card gets +2000 Power.
-?S?Brainstorm?? REST 2 of your Characters?Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 "Strange" Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.</text>
+			<text>[C]If you have another "Blood" Character, this card gets +2000 Power.
+[S]BRAINSTORM: REST 2 of your Characters?Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 ::Strange:: Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.</text>
 			</card>
 			
 			<card>
@@ -8486,7 +8486,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Ghost</type>
 			<pt>4000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A?When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, return this card to Deck. Shuffle your Deck afterwards. (If its not, return revealed card to its original position)</text>
+			<text>[A]When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, return this card to Deck. Shuffle your Deck afterwards. (If its not, return revealed card to its original position)</text>
 			</card>
 			
 			<card>
@@ -8497,7 +8497,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Spirit</type>
 			<pt>5500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?C?EXPERIENCE If the total Level of cards in your stock is 2 or higher, this card gets +500 Power, gains ??A?ENCORE?Place 1 Character from Hand to Waiting Room??.</text>
+			<text>[C]EXPERIENCE If the total Level of cards in your stock is 2 or higher, this card gets +500 Power, gains ?[A]ENCORE[Place 1 Character from Hand to Waiting Room]?.</text>
 			</card>
 			
 			<card>
@@ -8508,8 +8508,8 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange Blood</type>
 			<pt>8000/2</pt>
 			<tablerow>2</tablerow>
-			<text>?C?During your turn, this card gets +1000 Power.
-?A?When this card is battling, your opponent cannot play ?ASSIST? from hand.</text>
+			<text>[C]During your turn, this card gets +1000 Power.
+[A]When this card is battling, your opponent cannot play ?ASSIST? from hand.</text>
 			</card>
 			
 			<card>
@@ -8520,7 +8520,7 @@ Choose 1 of your Characters. That Character gains +2000 Power for the turn.
 			<type>Character - Strange</type>
 			<pt>2500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A??Place the top card of your Deck into Clock?When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, choose 1 card from your Level Zone and Waiting Room, exchange them.</text>
+			<text>[A]?Place the top card of your Deck into Clock?When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, choose 1 card from your Level Zone and Waiting Room, exchange them.</text>
 			</card>
 			
 			<card>
@@ -9452,7 +9452,7 @@ Choose 1 of your ::Strange:: Characters. That Character gains +3000 Power for th
 			<type>Climax - Soul Soul</type>
 			<pt></pt>
 			<tablerow>3</tablerow>
-			<text>?A?When this card is placed on Stage from hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.</text>
+			<text>[A]When this card is placed on Stage from hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.</text>
 			</card>
 
 			<card>
@@ -10722,7 +10722,7 @@ Choose 1 of your ::Strange:: Characters. That Character gains +3000 Power for th
 			<type>Character - Music Funeral Parlor</type>
 			<pt>2500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?S????Choose 1 of your opponent's Front Row Characters with Level 0 or lower, place it into Waiting Room.</text>
+			<text>[S]???Choose 1 of your opponent's Front Row Characters with Level 0 or lower, place it into Waiting Room.</text>
 			</card>
 			
 			<card>
@@ -10799,7 +10799,7 @@ Choose 1 of your ::Strange:: Characters. That Character gains +3000 Power for th
 			<type>Character - Music Funeral Parlor</type>
 			<pt>8000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A? When another of your battling Characters become REVERSE, during this turn, this card gets +1000 Power.</text>
+			<text>[A] When another of your battling Characters become REVERSE, during this turn, this card gets +1000 Power.</text>
 			</card>
 			
 			<card>
@@ -10866,7 +10866,7 @@ Choose 1 of your ::Strange:: Characters. That Character gains +3000 Power for th
 			<type>Character - Homunculus Alchemy</type>
 			<pt>6500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?C? The Character facing this card gets +1 Soul.</text>
+			<text>[C] The Character facing this card gets +1 Soul.</text>
 			</card>
 			
 			<card>
@@ -10922,7 +10922,7 @@ Choose 1 of your ::Strange:: Characters. That Character gains +3000 Power for th
 			<type>Character - Strange Blood</type>
 			<pt>5000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A??Return 2 Characters from your Waiting Room into Deck. Shuffle your Deck afterwards?When this card attacks, you may pay this cost. If you did, during this turn, this card gets +2000 Power.</text>
+			<text>[A][Return 2 Characters from your Waiting Room into Deck. Shuffle your Deck afterwards]When this card attacks, you may pay this cost. If you did, during this turn, this card gets +2000 Power.</text>
 			</card>
 			
 			<card>
@@ -12114,7 +12114,7 @@ Send this to Memory. </text>
 			<type>Climax - Draw</type>
 			<pt></pt>
 			<tablerow>3</tablerow>
-			<text>?C?All your Characters get +1000 Power, +1 Soul.
+			<text>[C]All your Characters get +1000 Power, +1 Soul.
 (Book? When this card is triggered, you may draw 1 card)</text>
 			</card>
 			
@@ -15311,7 +15311,7 @@ You may put the top card of your Clock in your Waiting Room. Send this to Memory
 			<type>Character - Magic Book</type>
 			<pt>4500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?C?If you have another card with Touma in its name on Stage, this card gets +1500 Power.</text>
+			<text>[C]If you have another card with Touma in its name on Stage, this card gets +1500 Power.</text>
 			</card>
 			
 			<card>
@@ -15390,7 +15390,7 @@ You may put the top card of your Clock in your Waiting Room. Send this to Memory
 			<type>Character - Magic Book</type>
 			<pt>2000/1</pt>
 			<tablerow>3</tablerow>
-			<text>?S?? ASSIST 2000 Level 1?? Place this card from Hand to Waiting Room[(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)</text>
+			<text>[S]? ASSIST 2000 Level 1?? Place this card from Hand to Waiting Room[(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)</text>
 			</card>
 			
 			<card>
@@ -15434,7 +15434,7 @@ You may put the top card of your Clock in your Waiting Room. Send this to Memory
 			<type>Character - ESP Frog</type>
 			<pt>5000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A? ENCORE ?Place 1 Character from Hand to Waiting Room? (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card into its previous slot in REST)</text>
+			<text>[A] ENCORE [Place 1 Character from Hand to Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card into its previous slot in REST)</text>
 			</card>
 			
 			<card>
@@ -15445,7 +15445,7 @@ You may put the top card of your Clock in your Waiting Room. Send this to Memory
 			<type>Character - Magic Book</type>
 			<pt>2500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?S??REST 2 of your Magic Characters?During this turn, this card gets +1000 Power.</text>
+			<text>[S]?REST 2 of your Magic Characters?During this turn, this card gets +1000 Power.</text>
 			</card>
 			
 			<card>
@@ -15456,7 +15456,7 @@ You may put the top card of your Clock in your Waiting Room. Send this to Memory
 			<type>Character - ESP Frog</type>
 			<pt>4500/1</pt>
 			<tablerow>2</tablerow>
-			<text>?A?When this card attacks, all your Characters, during this turn, get +500 Power.</text>
+			<text>[A]When this card attacks, all your Characters, during this turn, get +500 Power.</text>
 			</card>
 			
 			<card>
@@ -17566,7 +17566,7 @@ If you don't have a ::Doll:: Character, you cannot play this from your hand. Cho
 			<type>Character - Science Frog</type>
 			<pt>2000/1</pt>
 			<tablerow>2</tablerow>
-			<text>?C?All your other ESP Characters gain ??A? ENCORE [Discard 1 card from hand to Waiting Room]?.</text>
+			<text>[C]All your other ESP Characters gain ?[A] ENCORE [Discard 1 card from hand to Waiting Room]?.</text>
 			</card>
 			
 			<card>
@@ -25430,8 +25430,8 @@ RECOLLECTION If this is in your Memory, all your Characters with "Hayate" in the
             <type>Character - Sports Manager</type>
 			<pt>2500/1</pt>
             <tablerow>2</tablerow>
-            <text>?C?If you have another "Yomi, Mature Bishoujo", this card gains the following ability.??S??Place this card into Waiting Room?Choose 1 "Strength" from your Waiting Room, place it in this card's previous slot.?
-?C?During your turn, all your other Characters get +1000 Power.</text>
+            <text>[C]If you have another "Yomi, Mature Bishoujo", this card gains the following ability.?[S]?Place this card into Waiting Room?Choose 1 "Strength" from your Waiting Room, place it in this card's previous slot.?
+[C]During your turn, all your other Characters get +1000 Power.</text>
             </card>
 			
 			<card>
@@ -25442,7 +25442,7 @@ RECOLLECTION If this is in your Memory, all your Characters with "Hayate" in the
             <type>Character - Weapon</type>
 			<pt>9500/1</pt>
             <tablerow>2</tablerow>
-            <text>?A?When this card is placed on Stage from hand, choose 1 of your card with "Yuu" in its name, place it into Waiting Room. If you cannot, place the top card of your Deck into Clock.</text>
+            <text>[A]When this card is placed on Stage from hand, choose 1 of your card with "Yuu" in its name, place it into Waiting Room. If you cannot, place the top card of your Deck into Clock.</text>
             </card>
 			
 			<card>
@@ -25453,8 +25453,8 @@ RECOLLECTION If this is in your Memory, all your Characters with "Hayate" in the
             <type>Character - Sports Manager</type>
 			<pt>1000/1</pt>
             <tablerow>2</tablerow>
-            <text>?C?During your turn, all your other Characters get +500 Power.
-?S?[? REST this card] Search your deck for up to 1 {Sports} Character, show it to your opponent, then place into hand. Shuffle your deck afterwards.</text>
+            <text>[C]During your turn, all your other Characters get +500 Power.
+[S][? REST this card] Search your deck for up to 1 {Sports} Character, show it to your opponent, then place into hand. Shuffle your deck afterwards.</text>
             </card>
 			
 			<card>
