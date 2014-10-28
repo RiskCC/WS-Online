@@ -5,13 +5,21 @@
     <zone name="main">
         <card number="4" price="0" name="&quot;Black Wing Armor&quot; Erza"/>
         <card number="4" price="0" name="&quot;Flame Empress Armor&quot; Erza"/>
-        <card number="3" price="0" name="Fairy Tail!!!!!!"/>
-        <card number="2" price="0" name="Blumenblatt"/>
+        <card number="2" price="0" name="Fairy Tail!!!!!!"/>
+        <card number="3" price="0" name="Blumenblatt"/>
         <card number="2" price="0" name="Erza, Titania"/>
         <card number="3" price="0" name="Roar of the Fire Dragon"/>
         <card number="2" price="0" name="Natsu, Flame Dragon Slayer Mage"/>
-    </zone>
-    <zone name="side">
-        <card number="4" price="0" name="Changeling"/>
+        <card number="2" price="0" name="Happy, Natsu's Partner"/>
+        <card number="4" price="0" name="Natsu, Always Full Strength"/>
+        <card number="3" price="0" name="Natsu and Happy, Childhood"/>
+        <card number="2" price="0" name="Erza, Extremely Close Type"/>
+        <card number="4" price="0" name="Erza, Magical Swordsman"/>
+        <card number="2" price="0" name="Changeling"/>
+        <card number="3" price="0" name="Natsu, Power of Dragon"/>
+        <card number="2" price="0" name="Erza, Armor Mage"/>
+        <card number="2" price="0" name="&quot;Heaven's Wheel Armor&quot; Erza"/>
+        <card number="2" price="0" name="Dragon Egg"/>
+        <card number="4" price="0" name="Natsu, Young Dragon"/>
     </zone>
 </cockatrice_deck>
