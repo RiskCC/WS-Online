@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>LH1</deckname>
-    <comments></comments>
+    <deckname>LH 1.0</deckname>
+    <comments>Akatsuki / Shiroe; Red / Blue</comments>
     <zone name="main">
         <card number="2" price="0" name="Akatsuki, Master's Ninja"/>
         <card number="4" price="0" name="Two's Waltz"/>

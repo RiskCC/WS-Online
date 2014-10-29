@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Twins</deckname>
-    <comments>LS</comments>
+    <deckname>Lucky Star Twins 1.0</deckname>
+    <comments>Tsukasa / Kagami; Yellow / Green</comments>
     <zone name="main">
         <card number="3" price="0" name="Kagami and Tsukasa"/>
         <card number="3" price="0" name="Tsukasa, Pampered Child"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>FT1</deckname>
-    <comments></comments>
+    <deckname>FT 1.0</deckname>
+    <comments>Erza / Natsu; Yellow / Red</comments>
     <zone name="main">
         <card number="4" price="0" name="&quot;Black Wing Armor&quot; Erza"/>
         <card number="4" price="0" name="&quot;Flame Empress Armor&quot; Erza"/>

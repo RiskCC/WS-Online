@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Suguha/Leafa</deckname>
-    <comments>SAO Deck 1</comments>
+    <deckname>SuguLeafa 1.0</deckname>
+    <comments>Suguha / Kirito; Green / Blue</comments>
     <zone name="main">
         <card number="4" price="0" name="Kendo Girl, Suguha"/>
         <card number="4" price="0" name="Suguha's Shaken Feelings"/>
