@@ -12,6 +12,11 @@
         </set>
 		
 		<set>
+        <name>WSSAO2</name>
+        <longname>Sword Art Online 2</longname>
+        </set>		
+		
+		<set>
 		<name>WSFZ</name>
 		<longname>Fate/Zero</longname>
 		</set>
@@ -178,6 +183,1370 @@
 		
     </sets>
     <cards>
+			<card>
+				<name>Kyouji, Relaxed Talk</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10001.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +500 Power. [S] [Rest this] Choose up to 2 Characters, and they gain ::Target:: for the turn.</text>
+			</card>
+
+			<card>
+				<name>Kyouji, Protecting Shino</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10002.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have 1 or fewer other Characters, this gains +1 Level and +1000 Power. [C] Character Opposite this gains ::Target::.</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, Gathering Materials</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10003.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Death Gun, Unidentified</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10004.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During battles involving this, if the Battle Opponent of this is ::Target::, this gains the following ability. "[A] When this becomes Reversed, if the Level of the Battle Opponent of this is 1 or lower, you may Reverse that Character." [S] [(1) Rest 2 of your Characters] Choose 1 of your Opponent's Characters, and for the turn, it gets -1 Level and gains ::Target::.</text>
+			</card>
+
+			<card>
+				<name>Silica, Full of Confidence</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10005.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Death Gun, "True" Power</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10006.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If all your Characters are either ::Avatar:: and/or ::Net::, this gains +1000 Power. [C] Character Opposite this gains ::Target::. [A] [Discard a card from hand to the Waiting Room] When 'Power of "Death Gun"' is placed in your Climax Zone, if this is in the Front Row, you may pay cost. If so, choose 1 of your Opponent's Cost 1 or lower Characters and put it in the Waiting Room.</text>
+			</card>
+
+			<card>
+				<name>Death Gun, Unexpected Encounter</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10007.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>7000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this attacks, if your Opponent has a ::Target:: Character, this gains +3000 Power until the end of your Opponent's next turn.</text>
+			</card>
+
+			<card>
+				<name>Power of "Death Gun"</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10008.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[C] All your Characters gain +1000 Power and +1 Soul.</text>
+			</card>
+
+			<card>
+				<name>Kirito, Just Like a Girl</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10009.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During your Opponent's turn, this gains +1000 Power.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Place to Return</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10010.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Kirito, M9000-type Avatar</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10011.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have 3 or more other Characters with either ::Avatar:: and/or ::Net::, this gains +1000 Power. [A] ENCORE [Discard a Character card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Kirito, M9000-type Avatar (RRR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10022.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have 3 or more other Characters with either ::Avatar:: and/or ::Net::, this gains +1000 Power. [A] ENCORE [Discard a Character card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Sinon, Kind Guide</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10012.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>5500/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Shino, Another Self</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10013.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net) メガネ (Glasses)</type>
+				<pt>4000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] CHANGE [(1) Discard a card from hand to the Waiting Room, Put this in the Waiting Room] At the start of your Climax Phase, you may pay cost. If so, choose 1 '"Machine of Ice" Sinon' in your Waiting Room and put it in the Slot this was in. [S] [Rest this] Choose 1 of your Characters with either ::Avatar:: and/or ::Net::, and that Character gains +2000 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Swordsman in the World of Guns Kirito</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10014.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>6500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When the Battle Opponent of this becomes Reversed, if 'Wielder of "Photon Sword"' is in the Climax Zone, search your Library for up to 1 Character with either ::Avatar:: and/or ::Net::, reveal it, put it in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Swordsman in the World of Guns Kirito (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10021.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>6500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When the Battle Opponent of this becomes Reversed, if 'Wielder of "Photon Sword"' is in the Climax Zone, search your Library for up to 1 Character with either ::Avatar:: and/or ::Net::, reveal it, put it in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Swordsman in the World of Guns Kirito (SP)</name>
+				<set picURL="" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>6500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When the Battle Opponent of this becomes Reversed, if 'Wielder of "Photon Sword"' is in the Climax Zone, search your Library for up to 1 Character with either ::Avatar:: and/or ::Net::, reveal it, put it in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Machine of Ice Sinon</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10015.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +1000 Power. [S] [Rest this] Choose 1 of your Opponent's Characters, and that Character gains the following ability for the turn. "[C] During battles involving this, you cannot play Events or BACKUP from hand."</text>
+			</card>
+
+			<card>
+				<name>Machine of Ice Sinon (RRR)</name>
+				<set picURL="" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +1000 Power. [S] [Rest this] Choose 1 of your Opponent's Characters, and that Character gains the following ability for the turn. "[C] During battles involving this, you cannot play Events or BACKUP from hand."</text>
+			</card>
+
+			<card>
+				<name>Machine of Ice Sinon (SP)</name>
+				<set picURL="" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +1000 Power. [S] [Rest this] Choose 1 of your Opponent's Characters, and that Character gains the following ability for the turn. "[C] During battles involving this, you cannot play Events or BACKUP from hand."</text>
+			</card>
+
+			<card>
+				<name>Kirito, Determination to Shoot</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10016.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>8500/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Sinon, Excellent Sniper</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10017.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During your Opponent's turn, for each of your other Characters with either ::Avatar:: and/or ::Net::, this gains +500 Power. [A] When this is placed from hand to the Stage, you may put the top card of your Clock in the Waiting Room.</text>
+			</card>
+
+			<card>
+				<name>Sinon, Excellent Sniper (RRR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10024.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During your Opponent's turn, for each of your other Characters with either ::Avatar:: and/or ::Net::, this gains +500 Power. [A] When this is placed from hand to the Stage, you may put the top card of your Clock in the Waiting Room.</text>
+			</card>
+
+			<card>
+				<name>Belated Self-Introduction</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10018.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Event</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>If you have no Characters with "Kirito" in name, you cannot play this from your hand. Choose 1 of your Characters, and that Characters gains +2000 Power and the following ability for the turn. "[A] When the Batle Opponent of this becomes Reversed, you may draw a card." Put this card in Stock.</text>
+			</card>
+
+			<card>
+				<name>Wielder of "Photon Sword"</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10019.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[A] When this is placed from hand to the Climax Zone, choose up to 1 BLUE card in your Waiting Room and put it in Stock, and all your Characters gain +1 Soul for the turn.</text>
+			</card>
+
+			<card>
+				<name>Partner Hecate II</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2ext/10020.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[C] All your Characters gain +2 Soul.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Optimistic Feeling</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10001.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(1)] When this attacks, if 'Revelation of "the Wife"' is in the Climax Zone, you may pay cost. If so, choose 1 of your Opponent's Characters and return it to hand. [A] ACCELERATE [Put the top card of your Library in Clock] At the start of your Climax Phase, you may pay cost. If so, this gains +3500 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Optimistic Feeling (RRR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10095.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(1)] When this attacks, if 'Revelation of "the Wife"' is in the Climax Zone, you may pay cost. If so, choose 1 of your Opponent's Characters and return it to hand. [A] ACCELERATE [Put the top card of your Library in Clock] At the start of your Climax Phase, you may pay cost. If so, this gains +3500 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Light of Hope</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10002.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] This ability activates up to once per turn. During the turn this is placed from hand or via CHANGE to the stage, when the Damage dealt by this is Cancelled, you may deal 1 Damage to your Opponent. (Damage Cancel can occur) [A] When this attacks, if 'On top of "Yggdrasil"' is in the Climax Zone, all your Characters gain +5000 Power and "[A] When the Battle Opponent of this becomes Reversed, put that Character in Stock" for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Light of Hope (SP)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10099.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] This ability activates up to once per turn. During the turn this is placed from hand or via CHANGE to the stage, when the Damage dealt by this is Cancelled, you may deal 1 Damage to your Opponent. (Damage Cancel can occur) [A] When this attacks, if 'On top of "Yggdrasil"' is in the Climax Zone, all your Characters gain +5000 Power and "[A] When the Battle Opponent of this becomes Reversed, put that Character in Stock" for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Precious Time</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10003.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>1000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During your turn, all your other Characters gain +500 Power. [S] [Rest 2 of your Characters] Choose 1 of your ::Avatar:: Characters. That Character gains +1000 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Debuting Home Cooking</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10004.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have 1 or fewer other Characters, this gains +1 Level and +1000 Power. [S] BRAINSTORM Flip over the top 4 cards of your Library and put them in the Waiting Room. For each Climax card revealed this way, this gains +1000 Power and +1 Soul for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Debuting Home Cooking (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10087.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have 1 or fewer other Characters, this gains +1 Level and +1000 Power. [S] BRAINSTORM Flip over the top 4 cards of your Library and put them in the Waiting Room. For each Climax card revealed this way, this gains +1000 Power and +1 Soul for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Inside the Bird Cage</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10005.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have another "Kirito, Two Worlds", this gains +2000 Power.</text>
+			</card>
+
+			<card>
+				<name>Asuna Yuuki</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10006.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, choose 1 of your Characters. That Character gains +500 Power for the turn. [A] CHANGE [(2) Discard a card from hand to the Waiting Room, put this in the Waiting Room] At the start of your Climax Phase, you may pay cost. If so, choose 1 "Asuna, Light of Hope" in your Waiting Room and put it in the Slot this was in. (Note: This card has a different Japanese name than other cards with "Asuna" in name and thus synergies related to the name "Asuna" do not count this card)</text>
+			</card>
+
+			<card>
+				<name>Asuna Yuuki (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10088.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, choose 1 of your Characters. That Character gains +500 Power for the turn. [A] CHANGE [(2) Discard a card from hand to the Waiting Room, put this in the Waiting Room] At the start of your Climax Phase, you may pay cost. If so, choose 1 "Asuna, Light of Hope" in your Waiting Room and put it in the Slot this was in. (Note: This card has a different Japanese name than other cards with "Asuna" in name and thus synergies related to the name "Asuna" do not count this card)</text>
+			</card>
+
+			<card>
+				<name>Asuna, Bride of the Fairy King</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10007.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>1000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] BOND/"Kirito, Two Worlds" [(1)]</text>
+			</card>
+
+			<card>
+				<name>Living Legend Heathcliff</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10008.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, this gains +1500 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Family Side</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10009.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gains +X Power. X = 500 times # of your Characters with ASSIST. [A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so, choose 1 card in your Opponent's Waiting Room and return it to the Library, then shuffle that Library. (Note: This card has a different Japanese name than other cards with "Asuna" in name and thus synergies related to the name "Asuna" do not count this card)</text>
+			</card>
+
+			<card>
+				<name>Asuna, Kind Appearance</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10010.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>6000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During your turn, for each of your other Rested Characters, this gains +500 Power. [A] ENCORE [Put the top card of your Library in Clock]</text>
+			</card>
+
+			<card>
+				<name>Asuna, Shy Smile</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10011.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>9000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have 3 or more other Characters with either ::Avatar:: and/or ::Net::, this gains "[A] ENCORE [Discard a Character card from hand to the Waiting Room]". [C] All your other Characters gain "[C] This cannot Side Attack".</text>
+			</card>
+
+			<card>
+				<name>Asuna, "Undine" Girl</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10012.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>1000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +500 Power.</text>
+			</card>
+
+			<card>
+				<name>Asuna, "Conquering Team"'s Off Day</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10013.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Akihiko Kayaba</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10014.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net) 科学 (Science)</type>
+				<pt>5000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[S] [(1) Send this to Memory] Choose 1 of your ::Avatar:: Characters. That Character gains +4000 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Asuna, Ways to Enjoy Vacation</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10015.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>5500/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Asuna, Putting Self in the Frontline</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10016.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[S] [Counter] BACKUP 3000, Level 2 [(1) Discard this card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Alicia Rue, Lord of "Cait Sith"</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10017.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 魔法 (Magic)</type>
+				<pt>8500/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Asuna's Present</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10018.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>1</manacost>
+				<type>Event</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[Counter] If you don't have an ::Avatar:: Character, you cannot play this from hand. Choose 1 of your Characters. That Character gains +2500 Power for the turn. Send this to Memory.</text>
+			</card>
+
+			<card>
+				<name>On Top of "Yggdrasil"</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10019.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[C] All your Characters gain +1000 Power and +1 Soul.</text>
+			</card>
+
+			<card>
+				<name>Revelation of "the Wife"</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10020.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>W</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[A] When this is placed from hand to the Climax Zone, draw a card, and choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for the turn.</text>
+			</card>
+
+			<card>
+				<name>Leafa, "Sylph" Expert</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10021.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>5000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] All your other Characters with either ::Avatar:: and/or ::Net:: gain +1000 Power. [A] [(1) Rest this] When one of your other Characters becomes Reversed in battle, if this is Standing, you may pay cost. If so, that Character gains "[A] ENCORE [Discard a Character card from hand to the Waiting Room]" for the turn.</text>
+			</card>
+
+			<card>
+				<name>Leafa and Suguha, Virtual And Reality</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10022.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) ネット (Net)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, you may put the top card of your Clock in the Waiting Room. [A] [(1)] When this attacks, if "Fairy Dance" is in the Climax Zone, you may pay cost. If so, search your Library for up to 2 Characters with either ::Avatar:: and/or ::Net::, reveal them, put them in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Leafa and Suguha, Virtual And Reality (SP)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10100.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) ネット (Net)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, you may put the top card of your Clock in the Waiting Room. [A] [(1)] When this attacks, if "Fairy Dance" is in the Climax Zone, you may pay cost. If so, search your Library for up to 2 Characters with either ::Avatar:: and/or ::Net::, reveal them, put them in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Leafa, Unyielding Girl</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10023.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +500 Power. [S] [Rest this] Choose 1 of your Characters. That Character gains +1 Level for the turn.</text>
+			</card>
+
+			<card>
+				<name>Suguha, Supprorting Big Brother</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10024.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net) スポーツ (Sports)</type>
+				<pt>500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] BOND/"Kirito, Unwavering Determination" [(1)] [A] CHANGE [(1) Discard a card from hand to the Waiting Room, Put this in the Waiting Room] At the start of your Climax Phase, you may pay cost. If so, choose 1 "Suguha, Kirito's Little Sister" in your Waiting Room and put it in the Slot this was in.</text>
+			</card>
+
+			<card>
+				<name>Suguha, Supprorting Big Brother (RRR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10096.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net) スポーツ (Sports)</type>
+				<pt>500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] BOND/"Kirito, Unwavering Determination" [(1)] [A] CHANGE [(1) Discard a card from hand to the Waiting Room, Put this in the Waiting Room] At the start of your Climax Phase, you may pay cost. If so, choose 1 "Suguha, Kirito's Little Sister" in your Waiting Room and put it in the Slot this was in.</text>
+			</card>
+
+			<card>
+				<name>Leafa, Girl of Virtual World</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10025.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>6000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, Rest 1 of your Standing ::Avatar:: Characters.</text>
+			</card>
+
+			<card>
+				<name>Leafa, Girl of Virtual World (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10089.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>6000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, Rest 1 of your Standing ::Avatar:: Characters.</text>
+			</card>
+
+			<card>
+				<name>Suguha, Changing</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10026.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net) スポーツ (Sports)</type>
+				<pt>6500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this attacks, choose 1 of your other Characters. That Character gains +X Power for the turn, where X = 500 times # of your Characters with either ::Avatar:: and/or ::Net::. [A] ENCORE [Discard a Character card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Suguha, Changing (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10090.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net) スポーツ (Sports)</type>
+				<pt>6500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this attacks, choose 1 of your other Characters. That Character gains +X Power for the turn, where X = 500 times # of your Characters with either ::Avatar:: and/or ::Net::. [A] ENCORE [Discard a Character card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Speedholic Leafa</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10027.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(2)] When this is placed from hand to the Stage, you may pay cost. If so, choose a Character card in your Clock and return it to your hand, and put the top card of your Library in Clock. [A] When this attacks, choose up to 2 of your Characters with either ::Avatar:: and/or ::Net::. Those Characters gain +500 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Veteran Player Leafa</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10028.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During your Climax Phase, you cannot play a Climax card from hand.</text>
+			</card>
+
+			<card>
+				<name>Suguha, Kirito's Little Sister</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10029.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net) スポーツ (Sports)</type>
+				<pt>6500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(1) Put the top card of your Library in Clock] When "Memory of Last Night" is placed in your Climax Zone, if this is in the Front Row, you may pay cost. If so, search your Library for up to 1 Level 1 or less ::Avatar:: Character and put it in any Slot on the Stage, shuffle your Library, and that character gains +1000 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Leafa, Troubled Maiden</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10030.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>8000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have 3 or more other Characters with either ::Avatar:: and/or ::Net::, this gains +1000 Power.</text>
+			</card>
+
+			<card>
+				<name>Suguha, Tutor</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10031.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>2</manacost>
+				<type>Character - ネット (Net) スポーツ (Sports)</type>
+				<pt>8000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If Character Opposite this is Level 3 or higher, this gains +3000 Power.</text>
+			</card>
+
+			<card>
+				<name>Recon, Caring about Something</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10032.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so, choose a Climax card in your Clock and return it to your hand, and choose a card in your hand and put it in Clock.</text>
+			</card>
+
+			<card>
+				<name>Leafa, Taking Off From Territory</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10033.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Suguha, Cooking</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10034.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net) スポーツ (Sports)</type>
+				<pt>1500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[S] [Counter] BACKUP 1500, Level 1 [Discard this card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Oberon, Game Master</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10035.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[S] [(1)] Choose 1 Character in your Opponent's Front Row. That Character gets -1000 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Suguha, Youth Days</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10036.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net) スポーツ (Sports)</type>
+				<pt>7000/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Sakuya, Lord of "Sylph"</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10037.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>8500/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Swilvane Specialty</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10038.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Event</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>Choose a Character with either ::Avatar:: and/or ::Net:: in your Clock and return it to your hand. Put this in Clock.</text>
+			</card>
+
+			<card>
+				<name>Fairy Dance</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10039.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[A] When this is placed from hand to the Climax Zone, draw a card, and choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for the turn.</text>
+			</card>
+
+			<card>
+				<name>Memory of Last Night</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10040.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>G</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[C] All your Characters gain +1000 Power and +1 Soul.</text>
+			</card>
+
+			<card>
+				<name>Silica, "Cait Sith" Girl</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10041.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, reveal the top card of your Library. Put this in your Waiting Room at the start of your Encore Step if the revealed card is not a Character card with either ::Avatar::, ::Net::, and/or ::Dragon::. (Put the revealed card back)</text>
+			</card>
+
+			<card>
+				<name>Silica, "Cait Sith" Girl (SP)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10101.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, reveal the top card of your Library. Put this in your Waiting Room at the start of your Encore Step if the revealed card is not a Character card with either ::Avatar::, ::Net::, and/or ::Dragon::. (Put the revealed card back)</text>
+			</card>
+
+			<card>
+				<name>Silica, Relieved Smile</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10042.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, look at the top card of your Library and put it either on top of the Library or in the Waiting Room. [A] [(2)] When this attacks, if "Accident in Battle" is in the Climax Zone, you may pay cost. If so, Deal 1 Damage to your Opponent, and choose up to 1 card in your Opponent's Waiting Room and put it on top of the Library. (Damage Cancel can occur)</text>
+			</card>
+
+			<card>
+				<name>Silica, Looking Up at the Sky</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10043.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(1) Discard a card from hand to the Waiting Room] When this is placed from hand to the Stage, you may pay cost. If so, search your Library for up to 1 ::Avatar:: Character, reveal it, put it in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, "Leprechaun" Girl</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10044.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If there are 5 or more cards in your Stock, this gains the following ability: "[A] When this becomes Reversed, if the Level of the Battle Opponent of this is 1 or lower, you may Reverse that Character".</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, "Leprechaun" Girl (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10091.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If there are 5 or more cards in your Stock, this gains the following ability: "[A] When this becomes Reversed, if the Level of the Battle Opponent of this is 1 or lower, you may Reverse that Character".</text>
+			</card>
+
+			<card>
+				<name>Silica, Embarrassed Look</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10045.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>9500/2</pt>
+				<tablerow>2</tablerow>
+				<text>[C] For each of your other Characters with either ::Avatar::, ::Net::, and/or ::Dragon::, this gains +500 Power. [A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so, deal 1 Damage to your Opponent. (Damage Cancel can occur)</text>
+			</card>
+
+			<card>
+				<name>Silica, Embarrassed Look (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10092.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>9500/2</pt>
+				<tablerow>2</tablerow>
+				<text>[C] For each of your other Characters with either ::Avatar::, ::Net::, and/or ::Dragon::, this gains +500 Power. [A] [(1)] When this is placed from hand to the Stage, you may pay cost. If so, deal 1 Damage to your Opponent. (Damage Cancel can occur)</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, Brilliant Smile</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10046.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, look at the top card of you Library and put it either on top of the Library or in the Waiting Room. [A] When this is placed from hand to the Stage, this gains +X Power for the turn. X = 500 times # of your Characters with either ::Avatar:: and/or ::Net::. [A] [(1)] During your turn, when the Battle Opponent of this becomes Reversed, you may pay cost. If so, choose a Level 2 or lower Character in your Opponent's Front Row and put it on top of the Library.</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, Brilliant Smile (SP)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10102.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, look at the top card of you Library and put it either on top of the Library or in the Waiting Room. [A] When this is placed from hand to the Stage, this gains +X Power for the turn. X = 500 times # of your Characters with either ::Avatar:: and/or ::Net::. [A] [(1)] During your turn, when the Battle Opponent of this becomes Reversed, you may pay cost. If so, choose a Level 2 or lower Character in your Opponent's Front Row and put it on top of the Library.</text>
+			</card>
+
+			<card>
+				<name>Rika Shinozaki</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10047.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(2)] When this is placed from the Stage to the Waiting Room, you may pay cost. If so, choose 1 Character in your Waiting Room with either ::Avatar:: and/or ::Net:: and return it to your hand.</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, Realization of Affection</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10048.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this attacks, if "Until the Smile Returns" is in the Climax Zone, put the top 3 cards of your Library in the Waiting Room. If the cards put in the Waiting Room in this way are all Characters with either ::Avatar:: and/or ::Net::, choose a Character in your Waiting Room and return it to your hand.</text>
+			</card>
+
+			<card>
+				<name>Keiko, Cease-Fire Agreement</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10049.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net) 動物 (Animal)</type>
+				<pt>3500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, if there are 3 or more Climax cards in your Waiting Room, put the top card of your Library in Clock.</text>
+			</card>
+
+			<card>
+				<name>Keiko Ayano</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10050.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net) 動物 (Animal)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters with either ::Avatar:: and/or ::Net:: in front of this gain +1 Level and +500 Power. [A] [(1) Put the top card of your Library in Clock] When this is placed from the Stage to the Waiting Room, you may pay cost. If so, search your Library for up to 1 Character ith either ::Avatar::, ::Net::, and/or ::Dragon::, reveal it, put it in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Rika, Cease-Fire Agreement</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10051.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] ACCELERATE [Put the top card of your Library in Clock] At the start of your Climax Phase, you may pay cost. If so, choose 1 Character in your Waiting Room with either ::Avatar:: and/or ::Net:: and return it to your hand.</text>
+			</card>
+
+			<card>
+				<name>Rika, Cease-Fire Agreement (RRR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10097.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>7500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] ACCELERATE [Put the top card of your Library in Clock] At the start of your Climax Phase, you may pay cost. If so, choose 1 Character in your Waiting Room with either ::Avatar:: and/or ::Net:: and return it to your hand.</text>
+			</card>
+
+			<card>
+				<name>Keiko in Uniform</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10052.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net) 動物 (Animal)</type>
+				<pt>1000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +500 Power.</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, Adventure to Gather Materials</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10053.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Silica, On Guard to Kindness</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10054.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>5500/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, Making a Decision</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10055.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Lisbeth, Kind Warmth</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10056.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>9000/2</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Eugene, Commander</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10057.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>9500/2</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During battles involving this, you cannot play Events or BACKUP from your hand.</text>
+			</card>
+
+			<card>
+				<name>Demonic Sword Gram</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10058.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>1</manacost>
+				<type>Event</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>Choose 1 of your Characters. That Character gains +3000 Power for the turn. Your opponent cannot play Events or BACKUP from hand this turn.</text>
+			</card>
+
+			<card>
+				<name>Accident in Battle</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10059.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[C] All your Characters gain +1000 Power and +1 Soul.</text>
+			</card>
+
+			<card>
+				<name>Until the Smile Returns</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10060.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>R</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[C] All your Characters gain +2 Soul.</text>
+			</card>
+
+			<card>
+				<name>Yui, Adventure to Find Mama</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10061.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +X Power. X = 500 times Level of that Character. [S] [Rest 2 of your Characters] Look at the top card of your Library and put it either on top or bottom of the Library.</text>
+			</card>
+
+			<card>
+				<name>Yui, Adventure to Find Mama (SP)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10103.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>4500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +X Power. X = 500 times Level of that Character. [S] [Rest 2 of your Characters] Look at the top card of your Library and put it either on top or bottom of the Library.</text>
+			</card>
+
+			<card>
+				<name>Kirito, "Dual Wield" Demon</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10062.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you may put the top card of your Clock in the Waiting Room. [A] [(3) Discard 2 cards from hand to the Waiting Room] This ability activates up to once per turn. When this attacks, if you are Level 3 or higher and there are 6 cards in your Clock, you may pay cost. If so, Stand this.</text>
+			</card>
+
+			<card>
+				<name>Kirito, "Dual Wield" Demon (SP)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10104.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>2</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage or via CHANGE to the Stage, you may put the top card of your Clock in the Waiting Room. [A] [(3) Discard 2 cards from hand to the Waiting Room] This ability activates up to once per turn. When this attacks, if you are Level 3 or higher and there are 6 cards in your Clock, you may pay cost. If so, Stand this.</text>
+			</card>
+
+			<card>
+				<name>Kirito, Waiting Out Rain</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10063.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this attacks, choose 1 of your other Characters. That Character gains +1 Level and +1000 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Kazuto, Challenging "ALO"</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10064.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(1)] When your other Character attacks, you may pay cost. If so, that Character gains "[A] When the Battle Opponent of this becomes Reversed, you may put that Character on the bottom of the Library" for the turn.</text>
+			</card>
+
+			<card>
+				<name>Kazuto, Challenging "ALO" (RRR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10098.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>2500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] [(1)] When your other Character attacks, you may pay cost. If so, that Character gains "[A] When the Battle Opponent of this becomes Reversed, you may put that Character on the bottom of the Library" for the turn.</text>
+			</card>
+
+			<card>
+				<name>Kirito, "Spriggan" Youth</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10065.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] BOND/"Asuna, Inside the Bird Cage" [(1)] [S] BRAINSTORM [(1) Rest 2 of your Characters] Flip over the top 4 cards of your Library and put them in the Waiting Room. For each Climax card revealed this way, search your Library for up to 1 Character with either ::Avatar:: and/or ::Net:,, reveal it, put it in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Kirito, "Spriggan" Youth (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10093.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] BOND/"Asuna, Inside the Bird Cage" [(1)] [S] BRAINSTORM [(1) Rest 2 of your Characters] Flip over the top 4 cards of your Library and put them in the Waiting Room. For each Climax card revealed this way, search your Library for up to 1 Character with either ::Avatar:: and/or ::Net:,, reveal it, put it in your hand, and shuffle your Library.</text>
+			</card>
+
+			<card>
+				<name>Kirito, Unwavering Determination</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10066.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>4000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If there are 5 or more cards in your hand, this gains +2000 Power. [A] ACCELERATE [Put the top card of your Library in Clock] At the start of your Climax Phase, you may pay cost. If so, choose 1 '"The Seed"' in your Waiting Room and return it to your hand.</text>
+			</card>
+
+			<card>
+				<name>Kirito, Newlywed Life</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10067.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] ASSIST All your Characters in front of this gain +500 Power. [S] [(1)] Draw a card, and discard a card from your hand to the Waiting Room.</text>
+			</card>
+
+			<card>
+				<name>Yui, Memories Regained</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10068.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During your Opponent's turn, all your other Characters gain +500 Power. [A] [(1) Rest 2 of your Standing Characters] When you use ACCELERATE, you may pay cost. If so, put the top card of your Clock in the Waiting Room.</text>
+			</card>
+
+			<card>
+				<name>Kirito, Two Worlds</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10069.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>7000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] If you have another "Asuna, Inside the Bird Cage", this gains +2000 Power. [A] When this attacks, if "Confronting the Strongest Player" is in the Climax Zone, this gains +3000 Power until the end of your Opponent's next turn.</text>
+			</card>
+
+			<card>
+				<name>Kazuto, Encounter with MMO</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10070.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>2</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>8500/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] CHANGE [(1) Discard a card from hand to the Waiting Room, Put this in the Waiting Room] At the start of your Climax Phase, you may pay cost. If so, choose 1 'Kirito, "Dual Wield" Demon' in your Waiting Room and put it in the Slot this was in.</text>
+			</card>
+
+			<card>
+				<name>Navigation Pixie Yui</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10071.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>2</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, draw up to 2 cards, and discard a card from your hand to the Waiting Room. [A] [(1)] When "Reunion with Yui" is placed in your Climax Zone, if you have this and 2 or more other Characters with ::Avatar:: and/or ::Net:: in the Front Row, you may pay cost. If so, choose a Level 3 or lower Character in your Opponent's Front Row and put it on the bottom of the Library.</text>
+			</card>
+
+			<card>
+				<name>Navigation Pixie Yui (SR)</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10094.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>2</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>10000/2</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this is placed from hand to the Stage, draw up to 2 cards, and discard a card from your hand to the Waiting Room. [A] [(1)] When "Reunion with Yui" is placed in your Climax Zone, if you have this and 2 or more other Characters with ::Avatar:: and/or ::Net:: in the Front Row, you may pay cost. If so, choose a Level 3 or lower Character in your Opponent's Front Row and put it on the bottom of the Library.</text>
+			</card>
+
+			<card>
+				<name>Yui in Summer Dress</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10072.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net) 和服 (Yukata)</type>
+				<pt>3000/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Kirito in "Flower Garden"</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10073.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>3500/1</pt>
+				<tablerow>2</tablerow>
+				<text>[A] When this becomes Reversed, if you have 1 or fewer other Characters with either ::Avatar:: and/or ::Net::, put this in Clock.</text>
+			</card>
+
+			<card>
+				<name>Yui, Simple Answer</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10074.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Character - ネット (Net)</type>
+				<pt>5000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[C] During your Opponennt's turn, this gains +1000 Power.</text>
+			</card>
+
+			<card>
+				<name>Agil, Broker</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10075.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>2000/1</pt>
+				<tablerow>2</tablerow>
+				<text>[S] [Counter] BACKUP 2000, Level 1 [(1) Discard this card from hand to the Waiting Room]</text>
+			</card>
+
+			<card>
+				<name>Kirito, Battle in the Frontlines</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10076.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>7000/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>Klein, Frank Man</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10077.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>1</manacost>
+				<type>Character - アバター (Avatar) 武器 (Weapon)</type>
+				<pt>8500/1</pt>
+				<tablerow>2</tablerow>
+				<text>-- None --</text>
+			</card>
+
+			<card>
+				<name>The Seed</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10078.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Event</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[Counter] Choose 1 of your Characters with either ::Avatar:: and/or ::Net::. That Character gains +2000 Power for the turn.</text>
+			</card>
+
+			<card>
+				<name>Confronting the Strongest Player</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10079.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[C] All your Characters gain +1000 Power and +1 Soul.</text>
+			</card>
+
+			<card>
+				<name>Reunion with Yui</name>
+				<set picURL="http://yuyu-tei.jp/card_image/ws/front/sao2.0/10080.jpg" picURLHq="" picURLSt="">WSSAO2</set>
+				<color>U</color>
+				<manacost>0</manacost>
+				<type>Climax</type>
+				<pt>0/0</pt>
+				<tablerow>3</tablerow>
+				<text>[A] When this is placed from hand to the Climax Zone, draw a card, and choose 1 of your Characters. That Character gains +2000 Power and +1 Soul for the turn.</text>
+			</card>
+	
 			<card>
 				<name>Seishirou, First Time Feeling</name>
 				<set picURL="http://yuyu-tei.jp/card_image/ws/front/nisekoi/10029.jpg" picURLHq="" picURLSt="">WSNK</set>
@@ -454,7 +1823,7 @@
 			</card>
 
 			<card>
-				<name>Pendant of Promise</name>
+				<name>Pendant of Promise (Yellow)</name>
 				<set picURL="http://yuyu-tei.jp/card_image/ws/front/nisekoi/10050.jpg" picURLHq="" picURLSt="">WSNK</set>
 				<color>W</color>
 				<manacost>1</manacost>
@@ -762,7 +2131,7 @@
 			</card>
 
 			<card>
-				<name>Pendant of Promise</name>
+				<name>Pendant of Promise (Green)</name>
 				<set picURL="http://yuyu-tei.jp/card_image/ws/front/nisekoi/10074.jpg" picURLHq="" picURLSt="">WSNK</set>
 				<color>G</color>
 				<manacost>1</manacost>
@@ -1081,7 +2450,7 @@
 			</card>
 
 			<card>
-				<name>Pendant of Promise</name>
+				<name>Pendant of Promise (Red)</name>
 				<set picURL="http://yuyu-tei.jp/card_image/ws/front/nisekoi/10099.jpg" picURLHq="" picURLSt="">WSNK</set>
 				<color>R</color>
 				<manacost>1</manacost>
@@ -1422,7 +2791,7 @@
 			</card>
 
 			<card>
-				<name>Pendant of Promise</name>
+				<name>Pendant of Promise (Blue)</name>
 				<set picURL="http://yuyu-tei.jp/card_image/ws/front/nisekoi/10125.jpg" picURLHq="" picURLSt="">WSNK</set>
 				<color>U</color>
 				<manacost>1</manacost>
