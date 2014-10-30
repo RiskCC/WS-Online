@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>SAO Other 1.0</deckname>
+    <comments>Asuna / Kirito / Yui; Yellow / Blue</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Asuna, Light of Hope"/>
+        <card number="4" price="0" name="Asuna Yuuki"/>
+        <card number="4" price="0" name="On Top of &quot;Yggdrasil&quot;"/>
+        <card number="2" price="0" name="Kirito, &quot;Dual Wield&quot; Demon (SP)"/>
+        <card number="4" price="0" name="Kazuto, Encounter with MMO"/>
+        <card number="4" price="0" name="Reunion with Yui"/>
+        <card number="2" price="0" name="Navigation Pixie Yui (SR)"/>
+        <card number="3" price="0" name="Yui, Adventure to Find Mama (SP)"/>
+        <card number="4" price="0" name="Yui, Memories Regained"/>
+        <card number="2" price="0" name="Kirito, &quot;Spriggan&quot; Youth (SR)"/>
+        <card number="3" price="0" name="Kirito, Unwavering Determination"/>
+        <card number="3" price="0" name="The Seed"/>
+        <card number="3" price="0" name="Belated Self-Introduction"/>
+        <card number="3" price="0" name="Kirito, Waiting Out Rain"/>
+        <card number="3" price="0" name="Asuna, Precious Time"/>
+        <card number="2" price="0" name="Asuna, Optimistic Feeling (RRR)"/>
+    </zone>
+</cockatrice_deck>

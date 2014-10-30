@@ -17,16 +17,15 @@
         <card number="2" price="0" name="Marriage Proposal"/>
         <card number="2" price="0" name="Kirito Joins the Knights of the Blood Oath"/>
         <card number="2" price="0" name="Asuna's Strong Bond"/>
-        <card number="2" price="0" name="Imprisoned Queen, Asuna"/>
-        <card number="2" price="0" name="Asuna's True Expression"/>
         <card number="2" price="0" name="Encouraging Lisbeth"/>
-        <card number="2" price="0" name="Lisbeth's Positive Smile"/>
         <card number="2" price="0" name="Lisbeth's Professional Pride"/>
-        <card number="2" price="0" name="Suguha's Shaken Feelings"/>
-        <card number="2" price="0" name="Repressed Feelings"/>
         <card number="2" price="0" name="&quot;Star Splash&quot;"/>
         <card number="2" price="0" name="Asuna Invites to Party"/>
-        <card number="2" price="0" name="Lisbeth's Blessings"/>
+        <card number="4" price="0" name="Lisbeth's Blessings"/>
         <card number="2" price="0" name="Self-Sacrifice"/>
+        <card number="2" price="0" name="Silica's Unyielding Trust"/>
+        <card number="2" price="0" name="Suguha, Supprorting Big Brother (RRR)"/>
+        <card number="2" price="0" name="Suguha, Kirito's Little Sister"/>
+        <card number="2" price="0" name="Memory of Last Night"/>
     </zone>
 </cockatrice_deck>

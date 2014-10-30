@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Uiharu 1.0</deckname>
+    <comments>Uiharu ; Green</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Uiharu in Swimsuits"/>
+        <card number="4" price="0" name="Uiharu with Flower Accessories"/>
+        <card number="4" price="0" name="Uiharu and Saten of the Academy City"/>
+        <card number="4" price="0" name="Uiharu, Elite Operator"/>
+        <card number="4" price="0" name="&quot;Level 0&quot; Saten"/>
+        <card number="4" price="0" name="&quot;Judgment&quot; Uiharu"/>
+        <card number="4" price="0" name="&quot;Academy City&quot; Uiharu"/>
+        <card number="4" price="0" name="&quot;Passion Pink&quot; Uiharu"/>
+        <card number="4" price="0" name="Kazari Uiharu"/>
+        <card number="4" price="0" name="Seeing Erii Again"/>
+        <card number="4" price="0" name="&quot;Thermal Hand&quot; Uiharu"/>
+        <card number="4" price="0" name="Judgment's Resolution"/>
+        <card number="2" price="0" name="AIM Burst"/>
+    </zone>
+</cockatrice_deck>

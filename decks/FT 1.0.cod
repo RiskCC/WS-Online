@@ -13,11 +13,11 @@
         <card number="2" price="0" name="Happy, Natsu's Partner"/>
         <card number="4" price="0" name="Natsu, Always Full Strength"/>
         <card number="3" price="0" name="Natsu and Happy, Childhood"/>
-        <card number="2" price="0" name="Erza, Extremely Close Type"/>
+        <card number="4" price="0" name="Erza, Extremely Close Type"/>
         <card number="4" price="0" name="Erza, Magical Swordsman"/>
-        <card number="3" price="0" name="Changeling"/>
+        <card number="2" price="0" name="Changeling"/>
         <card number="3" price="0" name="Natsu, Power of Dragon"/>
-        <card number="3" price="0" name="Dragon Egg"/>
+        <card number="2" price="0" name="Dragon Egg"/>
         <card number="4" price="0" name="Natsu, Young Dragon"/>
     </zone>
 </cockatrice_deck>
