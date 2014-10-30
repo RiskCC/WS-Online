@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>LH 1.0</deckname>
+    <deckname>LH 1.1</deckname>
     <comments>Akatsuki / Shiroe; Red / Blue</comments>
     <zone name="main">
-        <card number="2" price="0" name="Akatsuki, Master's Ninja"/>
+        <card number="4" price="0" name="Akatsuki, Master's Ninja"/>
         <card number="4" price="0" name="Two's Waltz"/>
         <card number="4" price="0" name="Akatsuki, Maiden's Heart"/>
-        <card number="4" price="0" name="Akatsuki, Not Good at Dressing Herself?"/>
         <card number="4" price="0" name="Akatsuki, Quiet Worker"/>
-        <card number="2" price="0" name="Akatsuki, Assassin"/>
-        <card number="2" price="0" name="Akatsuki"/>
-        <card number="2" price="0" name="Delicate Combination"/>
+        <card number="4" price="0" name="Akatsuki, Assassin"/>
+        <card number="4" price="0" name="Delicate Combination"/>
         <card number="2" price="0" name="Shiroe, Enchanter"/>
-        <card number="4" price="0" name="Shiroe, Guildmaster"/>
         <card number="2" price="0" name="Shiroe, Log Horizon Representative"/>
-        <card number="2" price="0" name="Shiroe, Full Control Encount"/>
-        <card number="2" price="0" name="Shiroe, Determination to Change the World"/>
-        <card number="2" price="0" name="Naotsugu, Reliable Partner"/>
-        <card number="2" price="0" name="Log Horizon"/>
-        <card number="2" price="0" name="Nyanta, Swashbuckler"/>
-        <card number="2" price="0" name="Nyanta the Cook"/>
+        <card number="4" price="0" name="Shiroe, Full Control Encount"/>
+        <card number="4" price="0" name="Nyanta, Swashbuckler"/>
+        <card number="4" price="0" name="Nyanta the Cook"/>
+        <card number="4" price="0" name="Isuzu"/>
+        <card number="4" price="0" name="Shiroe, Two's Waltz"/>
         <card number="2" price="0" name="Nyanta"/>
-        <card number="2" price="0" name="Mind Shock"/>
-        <card number="2" price="0" name="Enchanter's Support"/>
     </zone>
 </cockatrice_deck>
