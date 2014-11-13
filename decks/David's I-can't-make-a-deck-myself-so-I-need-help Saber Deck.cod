@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>David's I-can't-make-a-deck-myself-so-I-need-help Saber Deck</deckname>
+    <comments>FZ Saber solo</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Saber, Top Class"/>
+        <card number="4" price="0" name="King of Ideals, Saber"/>
+        <card number="4" price="0" name="Saber, Metallic Gale"/>
+        <card number="4" price="0" name="Saber, Girl of Heroic Spirit"/>
+        <card number="4" price="0" name="Saber in a Dark Suit"/>
+        <card number="4" price="0" name="Saber - Noble Phantasm Unleashed"/>
+        <card number="3" price="0" name="Saber - End of Reign"/>
+        <card number="4" price="0" name="Saber - &quot;Magic Power Unleashed&quot;"/>
+        <card number="4" price="0" name="Beautiful King of Knights, Saber"/>
+        <card number="4" price="0" name="&quot;Riding&quot; Skill, Saber"/>
+        <card number="3" price="0" name="&quot;Invisible Air&quot; Saber"/>
+        <card number="4" price="0" name="Strike Air"/>
+        <card number="4" price="0" name="Excalibur"/>
+    </zone>
+</cockatrice_deck>
